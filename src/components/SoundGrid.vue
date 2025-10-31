@@ -137,7 +137,7 @@ export default {
               id: `${folder}_${displayName}_${sound.name || sound}_${index}`,
               displayName: displayName,
               soundFileName: typeof sound === 'string' ? sound : sound.name,
-              volume: 1,
+              volume: 5,
               pitch: Math.max(Math.min(sound.pitch || 1, 2.0), 0.5),
               folder: folder,
             }));

@@ -29,8 +29,8 @@
           <label class="block text-gray-400 text-xs">Pitch: {{ sound.pitch.toFixed(2) }}</label>
           <input
               type="range"
-              min="0.5"
-              max="2"
+              min="0"
+              max="256"
               step="0.01"
               :value="sound.pitch"
               @input="updatePitch(sound, $event.target.value)"
@@ -42,7 +42,7 @@
           <input
               type="range"
               min="0"
-              max="1"
+              max="10"
               step="0.1"
               :value="sound.volume"
               @input="updateVolume(sound, $event.target.value)"
