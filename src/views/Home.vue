@@ -158,6 +158,7 @@ export default {
             if (soundNames.includes(sound.displayName)) {
               return count + sound.sounds.length;
             }
+            
             return count;
           }, 0);
         } else {
@@ -241,13 +242,13 @@ export default {
                 (typeof sound === 'object' ? sound.name : sound) === soundFileName
             )
         );
-
+        
         if (originalSound) {
           const folder = soundFileName.split('/')[0];
           const soundToAdd = {
             ...originalSound,
             id: `${folder}_${originalSound.displayName}_${soundFileName}_0`,
-            displayName: originalSound.displayName,
+            displayName: originalSound.displayName.replace(`_bedrock`,' (Bedrock)').replace(`_java`,' (Java)'),
             soundFileName: soundFileName,
             pitch: soundParam.pitch,
             volume: soundParam.volume
@@ -361,13 +362,22 @@ export default {
     },
     async fetchAllSounds() {
       try {
-        const response = await fetch('/sounds/sounds.json');
-        const data = await response.json();
-        this.allSounds = Array.isArray(data) ? data : Object.entries(data).map(([key, value]) => ({
-          id: key,
-          displayName: key,
+        // const response = await fetch('/sounds/sounds.json');
+        // let data = await response.json();
+        const response2 = await fetch('/sound_bedrock/sounds.json');
+        const data2 = await response2.json();
+        
+        this.allSounds = Array.isArray(data2) ? data : Object.entries(data2).map(([key, value]) => ({
+          id: key+'_bedrock',
+          displayName: key+'_bedrock',
           ...value
         }));
+        
+        // this.allSounds = Array.isArray(data) ? data : Object.entries(data).map(([key, value]) => ({
+        //   id: key,
+        //   displayName: key,
+        //   ...value
+        // }));
       } catch (error) {
         console.error('Error fetching all sounds:', error);
         this.allSounds = [];

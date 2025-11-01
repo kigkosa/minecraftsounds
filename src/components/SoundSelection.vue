@@ -124,7 +124,7 @@ export default {
     },
     copyMMCommand() {
       const mmCommand = this.selectedSounds
-          .map(sound => `- sound{s=${sound.displayName};p=${sound.pitch.toFixed(2)};v=${sound.volume.toFixed(1)}}`)
+          .map(sound => `- sound{s=${sound.displayName.replace(' (Bedrock)', '').replace(' (Java)', '')};p=${sound.pitch.toFixed(2)};v=${sound.volume.toFixed(1)}}`)
           .join('\n');
       this.copyToClipboard(mmCommand, 'MM Command');
     },
