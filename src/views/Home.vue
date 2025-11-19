@@ -367,7 +367,6 @@ export default {
         const response2 = await fetch('/sounds/sound_bedrock/sounds.json');
         
         const data2 = await response2.json();
-        console.log(data2);
         
         
         this.allSounds = Array.isArray(data2) ? data : Object.entries(data2).map(([key, value]) => ({
