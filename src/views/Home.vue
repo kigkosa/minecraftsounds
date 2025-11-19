@@ -405,7 +405,6 @@ export default {
         if (!this.audioContext) {
           this.audioContext = new (window.AudioContext || window.webkitAudioContext)();
         }
-        console.log(soundItem.soundFileName);
         
         const response = await fetch(`/sounds/${soundItem.soundFileName}.ogg`);
         const arrayBuffer = await response.arrayBuffer();
