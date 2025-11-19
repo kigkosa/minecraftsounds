@@ -1,0 +1,14 @@
+{
+  "hatch.frog_spawn": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/frog_spawn/hatch1",
+      "sound_bedrock/block/frog_spawn/hatch2",
+      "sound_bedrock/block/frog_spawn/hatch3",
+      "sound_bedrock/block/frog_spawn/hatch4",
+      "sound_bedrock/block/frog_spawn/hatch5"
+    ]
+  }
+}

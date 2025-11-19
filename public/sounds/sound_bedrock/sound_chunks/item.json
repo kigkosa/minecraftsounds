@@ -1,0 +1,268 @@
+{
+  "item.bone_meal.use": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/item/bonemeal/bonemeal1",
+      "sound_bedrock/item/bonemeal/bonemeal2",
+      "sound_bedrock/item/bonemeal/bonemeal3",
+      "sound_bedrock/item/bonemeal/bonemeal4",
+      "sound_bedrock/item/bonemeal/bonemeal5"
+    ]
+  },
+  "item.book.page_turn": {
+    "__use_legacy_max_distance": "true",
+    "category": "ui",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/item/book/open_flip1",
+        "volume": 2
+      },
+      {
+        "name": "sound_bedrock/item/book/open_flip2",
+        "volume": 2
+      },
+      {
+        "name": "sound_bedrock/item/book/open_flip3",
+        "volume": 2
+      }
+    ]
+  },
+  "item.book.put": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/item/book/close_put1",
+        "volume": 4
+      },
+      {
+        "name": "sound_bedrock/item/book/close_put2",
+        "volume": 4
+      }
+    ]
+  },
+  "item.shield.block": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": false,
+        "name": "sound_bedrock/item/shield/block1",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "load_on_low_memory": false,
+        "name": "sound_bedrock/item/shield/block2",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/item/shield/block3",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "load_on_low_memory": false,
+        "name": "sound_bedrock/item/shield/block4",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "load_on_low_memory": false,
+        "name": "sound_bedrock/item/shield/block5",
+        "pitch": 1,
+        "volume": 1
+      }
+    ]
+  },
+  "item.spyglass.stop_using": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/item/spyglass/stop"
+    ]
+  },
+  "item.spyglass.use": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/item/spyglass/use"
+    ]
+  },
+  "item.trident.hit": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/item/trident/pierce1",
+      "sound_bedrock/item/trident/pierce2",
+      "sound_bedrock/item/trident/pierce3"
+    ]
+  },
+  "item.trident.hit_ground": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/item/trident/ground_impact1",
+        "pitch": 1,
+        "volume": 0.9
+      },
+      {
+        "name": "sound_bedrock/item/trident/ground_impact2",
+        "pitch": 1,
+        "volume": 0.9
+      },
+      {
+        "name": "sound_bedrock/item/trident/ground_impact3",
+        "pitch": 1,
+        "volume": 0.9
+      },
+      {
+        "name": "sound_bedrock/item/trident/ground_impact4",
+        "pitch": 1,
+        "volume": 0.9
+      }
+    ]
+  },
+  "item.trident.return": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/item/trident/return1",
+        "pitch": 1,
+        "volume": 0.8
+      },
+      {
+        "name": "sound_bedrock/item/trident/return2",
+        "pitch": 1.2,
+        "volume": 0.8
+      },
+      {
+        "name": "sound_bedrock/item/trident/return3",
+        "pitch": 0.8,
+        "volume": 0.8
+      },
+      {
+        "name": "sound_bedrock/item/trident/return2",
+        "pitch": 1,
+        "volume": 0.8
+      },
+      {
+        "name": "sound_bedrock/item/trident/return2",
+        "pitch": 1.2,
+        "volume": 0.8
+      },
+      {
+        "name": "sound_bedrock/item/trident/return2",
+        "pitch": 0.8,
+        "volume": 0.8
+      },
+      {
+        "name": "sound_bedrock/item/trident/return3",
+        "pitch": 1,
+        "volume": 0.8
+      },
+      {
+        "name": "sound_bedrock/item/trident/return3",
+        "pitch": 1.2,
+        "volume": 0.8
+      },
+      {
+        "name": "sound_bedrock/item/trident/return3",
+        "pitch": 0.8,
+        "volume": 0.8
+      }
+    ]
+  },
+  "item.trident.riptide_1": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/item/trident/riptide_mono1",
+        "pitch": 1,
+        "volume": 1
+      }
+    ]
+  },
+  "item.trident.riptide_2": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/item/trident/riptide_mono2",
+        "pitch": 1,
+        "volume": 1
+      }
+    ]
+  },
+  "item.trident.riptide_3": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/item/trident/riptide_mono3",
+        "pitch": 1,
+        "volume": 1
+      }
+    ]
+  },
+  "item.trident.throw": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/item/trident/throw1",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sound_bedrock/item/trident/throw2",
+        "pitch": 1,
+        "volume": 1
+      }
+    ]
+  },
+  "item.trident.thunder": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/item/trident/thunder1",
+      "sound_bedrock/item/trident/thunder2"
+    ],
+    "volume": 1000
+  }
+}

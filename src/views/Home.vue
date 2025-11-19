@@ -364,8 +364,11 @@ export default {
       try {
         // const response = await fetch('/sounds/sounds.json');
         // let data = await response.json();
-        const response2 = await fetch('/sound_bedrock/sounds.json');
+        const response2 = await fetch('/sounds/sound_bedrock/sounds.json');
+        
         const data2 = await response2.json();
+        console.log(data2);
+        
         
         this.allSounds = Array.isArray(data2) ? data : Object.entries(data2).map(([key, value]) => ({
           id: key+'_bedrock',
@@ -403,7 +406,8 @@ export default {
         if (!this.audioContext) {
           this.audioContext = new (window.AudioContext || window.webkitAudioContext)();
         }
-
+        console.log(soundItem.soundFileName);
+        
         const response = await fetch(`/sounds/${soundItem.soundFileName}.ogg`);
         const arrayBuffer = await response.arrayBuffer();
         const audioBuffer = await this.audioContext.decodeAudioData(arrayBuffer);

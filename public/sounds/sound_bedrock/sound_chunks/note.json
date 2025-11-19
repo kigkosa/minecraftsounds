@@ -1,0 +1,268 @@
+{
+  "note.banjo": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/note/banjo"
+      }
+    ]
+  },
+  "note.bass": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/note/bass"
+      }
+    ]
+  },
+  "note.bassattack": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/note/bassattack"
+      }
+    ]
+  },
+  "note.bd": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/note/bd"
+      }
+    ]
+  },
+  "note.bell": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/note/bell"
+      }
+    ]
+  },
+  "note.bit": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/note/bit"
+      }
+    ]
+  },
+  "note.chime": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/note/icechime"
+      }
+    ]
+  },
+  "note.cow_bell": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/note/cow_bell"
+      }
+    ]
+  },
+  "note.creeper": {
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/random/fuse"
+    ]
+  },
+  "note.didgeridoo": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/note/didgeridoo"
+      }
+    ]
+  },
+  "note.enderdragon": {
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/mob/enderdragon/growl1",
+      "sound_bedrock/mob/enderdragon/growl2",
+      "sound_bedrock/mob/enderdragon/growl3",
+      "sound_bedrock/mob/enderdragon/growl4"
+    ]
+  },
+  "note.flute": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/note/flute"
+      }
+    ]
+  },
+  "note.guitar": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/note/guitar"
+      }
+    ]
+  },
+  "note.harp": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/note/harp"
+      }
+    ]
+  },
+  "note.hat": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/note/hat"
+      }
+    ]
+  },
+  "note.iron_xylophone": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/note/iron_xylophone"
+      }
+    ]
+  },
+  "note.piglin": {
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/mob/piglin/angry1",
+      "sound_bedrock/mob/piglin/angry2",
+      "sound_bedrock/mob/piglin/angry3",
+      "sound_bedrock/mob/piglin/angry4"
+    ]
+  },
+  "note.pling": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/note/pling"
+      }
+    ]
+  },
+  "note.skeleton": {
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/mob/skeleton/step1",
+      "sound_bedrock/mob/skeleton/step2",
+      "sound_bedrock/mob/skeleton/step3",
+      "sound_bedrock/mob/skeleton/step4"
+    ]
+  },
+  "note.snare": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/note/snare"
+      }
+    ]
+  },
+  "note.witherskeleton": {
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/mob/wither_skeleton/step1",
+      "sound_bedrock/mob/wither_skeleton/step2",
+      "sound_bedrock/mob/wither_skeleton/step3",
+      "sound_bedrock/mob/wither_skeleton/step4"
+    ]
+  },
+  "note.xylophone": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/note/xylobone"
+      }
+    ]
+  },
+  "note.zombie": {
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/mob/zombie/say1",
+      "sound_bedrock/mob/zombie/say2",
+      "sound_bedrock/mob/zombie/say3"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "resonate.amethyst_block": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/block/amethyst/resonate1",
+        "volume": 3
+      },
+      {
+        "name": "sound_bedrock/block/amethyst/resonate2",
+        "volume": 3
+      },
+      {
+        "name": "sound_bedrock/block/amethyst/resonate3",
+        "volume": 3
+      },
+      {
+        "name": "sound_bedrock/block/amethyst/resonate4",
+        "volume": 3
+      }
+    ]
+  }
+}

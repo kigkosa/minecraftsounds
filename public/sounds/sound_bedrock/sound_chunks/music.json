@@ -1,0 +1,2155 @@
+{
+  "music.game": {
+    "__use_legacy_max_distance": "true",
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/calm1",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/calm2",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/calm3",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true,
+        "volume": 0.1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal2",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal3",
+        "stream": true,
+        "volume": 0.1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal4",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nuance1",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nuance2",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano1",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano2",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano3",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/floating_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/comforting_memories",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/featherfall",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/komorebi",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/puzzlebox",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/watcher",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/yakusoku",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/below_and_above",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/broken_clocks",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/fireflies",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/lilypad",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/os_piano",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.game.basalt_deltas": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/so_below",
+        "stream": true,
+        "volume": 0.5,
+        "weight": 7
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether4",
+        "stream": true,
+        "weight": 1
+      }
+    ]
+  },
+  "music.game.creative": {
+    "__use_legacy_max_distance": "true",
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/creative/creative1",
+        "stream": true,
+        "volume": 0.1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/creative/creative2",
+        "stream": true,
+        "volume": 0.1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/creative/creative3",
+        "stream": true,
+        "volume": 0.1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/creative/creative4",
+        "stream": true,
+        "volume": 0.1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/creative/creative5",
+        "stream": true,
+        "volume": 0.1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/creative/creative6",
+        "stream": true,
+        "volume": 0.1
+      }
+    ]
+  },
+  "music.game.credits": {
+    "__use_legacy_max_distance": "true",
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/end/credits",
+        "stream": true,
+        "volume": 0.1
+      }
+    ]
+  },
+  "music.game.crimson_forest": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/chrysopoeia",
+        "stream": true,
+        "volume": 0.5,
+        "weight": 7
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether4",
+        "stream": true,
+        "weight": 1
+      }
+    ]
+  },
+  "music.game.deep_dark": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/music/game/ancestry",
+        "stream": true
+      }
+    ]
+  },
+  "music.game.dripstone_caves": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/wending",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/infinite_amethyst",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/an_ordinary_day",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal4",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nuance1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nuance2",
+        "stream": true,
+        "weight": 1
+      }
+    ]
+  },
+  "music.game.end": {
+    "__use_legacy_max_distance": "true",
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/end/end",
+        "stream": true,
+        "volume": 0.2
+      }
+    ]
+  },
+  "music.game.endboss": {
+    "__use_legacy_max_distance": "true",
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/end/boss",
+        "stream": true,
+        "volume": 0.3
+      }
+    ]
+  },
+  "music.game.frozen_peaks": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/stand_tall",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal4",
+        "stream": true,
+        "weight": 1
+      }
+    ]
+  },
+  "music.game.grove": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/comforting_memories",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/infinite_amethyst",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/wending",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/calm1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/calm2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/calm3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nuance1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nuance2",
+        "stream": true,
+        "weight": 1
+      }
+    ]
+  },
+  "music.game.jagged_peaks": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/floating_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/stand_tall",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/wending",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano1",
+        "stream": true
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano2",
+        "stream": true
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano3",
+        "stream": true
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nuance1",
+        "stream": true
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nuance2",
+        "stream": true
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal2",
+        "stream": true
+      }
+    ]
+  },
+  "music.game.lush_caves": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/music/game/an_ordinary_day",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "name": "sound_bedrock/music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 4
+      },
+      {
+        "name": "sound_bedrock/music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "name": "sound_bedrock/music/game/floating_dream",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "name": "sound_bedrock/music/game/piano3",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "sound_bedrock/music/game/calm1",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "sound_bedrock/music/game/calm2",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "sound_bedrock/music/game/calm3",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "sound_bedrock/music/game/aerie",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/firebugs",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/labyrinthine",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.game.meadow": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal4",
+        "stream": true,
+        "weight": 1
+      }
+    ]
+  },
+  "music.game.nether": {
+    "__use_legacy_max_distance": "true",
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether1",
+        "stream": true,
+        "volume": 0.15
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether2",
+        "stream": true,
+        "volume": 0.15
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether3",
+        "stream": true,
+        "volume": 0.15
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether4",
+        "stream": true,
+        "volume": 0.15
+      }
+    ]
+  },
+  "music.game.nether_wastes": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/rubedo",
+        "stream": true,
+        "volume": 0.5,
+        "weight": 6
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether4",
+        "stream": true,
+        "weight": 1
+      }
+    ]
+  },
+  "music.game.snowy_slopes": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/an_ordinary_day",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/stand_tall",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal3",
+        "stream": true,
+        "weight": 1
+      }
+    ]
+  },
+  "music.game.soulsand_valley": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/so_below",
+        "stream": true,
+        "volume": 0.5,
+        "weight": 7
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nether/nether4",
+        "stream": true,
+        "weight": 1
+      }
+    ]
+  },
+  "music.game.stony_peaks": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/stand_tall",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/wending",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal4",
+        "stream": true,
+        "weight": 1
+      }
+    ]
+  },
+  "music.game.swamp_music": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/music/game/aerie",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/firebugs",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/labyrinthine",
+        "stream": true
+      }
+    ]
+  },
+  "music.game.water": {
+    "__use_legacy_max_distance": "true",
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/water/axolotl",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/water/dragon_fish",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/water/shuniji",
+        "stream": true,
+        "volume": 0.2
+      }
+    ]
+  },
+  "music.game_and_wild_equal_chance": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/music/game/calm1",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "sound_bedrock/music/game/calm2",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "sound_bedrock/music/game/calm3",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true,
+        "volume": 0.1
+      },
+      {
+        "name": "sound_bedrock/music/game/hal2",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "sound_bedrock/music/game/hal3",
+        "stream": true,
+        "volume": 0.1
+      },
+      {
+        "name": "sound_bedrock/music/game/hal4",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "sound_bedrock/music/game/nuance1",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sound_bedrock/music/game/nuance2",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sound_bedrock/music/game/piano1",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "sound_bedrock/music/game/piano2",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "sound_bedrock/music/game/piano3",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "sound_bedrock/music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/floating_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/comforting_memories",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/aerie",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/firebugs",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/labyrinthine",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.game_and_wild_favor_game": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/music/game/calm1",
+        "stream": true,
+        "volume": 0.2,
+        "weight": 3
+      },
+      {
+        "name": "sound_bedrock/music/game/calm2",
+        "stream": true,
+        "volume": 0.2,
+        "weight": 3
+      },
+      {
+        "name": "sound_bedrock/music/game/calm3",
+        "stream": true,
+        "volume": 0.2,
+        "weight": 3
+      },
+      {
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true,
+        "volume": 0.1,
+        "weight": 3
+      },
+      {
+        "name": "sound_bedrock/music/game/hal2",
+        "stream": true,
+        "volume": 0.2,
+        "weight": 3
+      },
+      {
+        "name": "sound_bedrock/music/game/hal3",
+        "stream": true,
+        "volume": 0.1,
+        "weight": 3
+      },
+      {
+        "name": "sound_bedrock/music/game/hal4",
+        "stream": true,
+        "volume": 0.2,
+        "weight": 3
+      },
+      {
+        "name": "sound_bedrock/music/game/nuance1",
+        "stream": true,
+        "volume": 0.3,
+        "weight": 3
+      },
+      {
+        "name": "sound_bedrock/music/game/nuance2",
+        "stream": true,
+        "volume": 0.3,
+        "weight": 3
+      },
+      {
+        "name": "sound_bedrock/music/game/piano1",
+        "stream": true,
+        "volume": 0.2,
+        "weight": 3
+      },
+      {
+        "name": "sound_bedrock/music/game/piano2",
+        "stream": true,
+        "volume": 0.2,
+        "weight": 3
+      },
+      {
+        "name": "sound_bedrock/music/game/piano3",
+        "stream": true,
+        "volume": 0.2,
+        "weight": 3
+      },
+      {
+        "name": "sound_bedrock/music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 3
+      },
+      {
+        "name": "sound_bedrock/music/game/floating_dream",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 3
+      },
+      {
+        "name": "sound_bedrock/music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 3
+      },
+      {
+        "name": "sound_bedrock/music/game/comforting_memories",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 3
+      },
+      {
+        "name": "sound_bedrock/music/game/aerie",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/firebugs",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/labyrinthine",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.menu": {
+    "__use_legacy_max_distance": "true",
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/music/menu/menu1",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sound_bedrock/music/menu/menu2",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sound_bedrock/music/menu/menu3",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sound_bedrock/music/menu/menu4",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sound_bedrock/music/game/below_and_above",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sound_bedrock/music/game/broken_clocks",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sound_bedrock/music/game/fireflies",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sound_bedrock/music/game/lilypad",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sound_bedrock/music/game/os_piano",
+        "stream": true,
+        "volume": 0.3
+      }
+    ]
+  },
+  "music.overworld.bamboo_jungle": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "music/game/bromeliad",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "name": "music/game/hal1",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal2",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal3",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal4",
+        "stream": true
+      },
+      {
+        "name": "music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/nuance1",
+        "stream": true
+      },
+      {
+        "name": "music/game/nuance2",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano1",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano2",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano3",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.cherry_grove": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/music/game/below_and_above",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "name": "sound_bedrock/music/game/bromeliad",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/calm1",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/calm2",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/calm3",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/echo_in_the_wind",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/featherfall",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.deep_dark": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/music/game/ancestry",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/deeper",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.desert": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/music/game/fireflies",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "name": "sound_bedrock/music/game/crescent_dunes",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/hal2",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/hal3",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/hal4",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/nuance1",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/nuance2",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.dripstone_caves": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/wending",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/infinite_amethyst",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/an_ordinary_day",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal4",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nuance1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nuance2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "name": "sound_bedrock/music/game/deeper",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/eld_unknown",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "name": "sound_bedrock/music/game/endless",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "name": "sound_bedrock/music/game/pokopoko",
+        "stream": true,
+        "volume": 0.8,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.flower_forest": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/music/game/bromeliad",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/echo_in_the_wind",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/featherfall",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/hal2",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/hal3",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/hal4",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/nuance1",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/nuance2",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.forest": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/music/game/broken_clocks",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "name": "sound_bedrock/music/game/bromeliad",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/calm2",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/comforting_memories",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/hal4",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/piano1",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/floating_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/hal3",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/nuance1",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/hal2",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/piano3",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/calm1",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/nuance2",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/aerie",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/firebugs",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/labyrinthine",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/calm3",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/piano2",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.grove": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/lilypad",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/comforting_memories",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/infinite_amethyst",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/wending",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/eld_unknown",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/endless",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/pokopoko",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano3",
+        "stream": true
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/calm1",
+        "stream": true
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/calm2",
+        "stream": true
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/calm3",
+        "stream": true
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nuance1",
+        "stream": true
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nuance2",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.jagged_peaks": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/floating_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/stand_tall",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/wending",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/eld_unknown",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/endless",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/pokopoko",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano1",
+        "stream": true
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano2",
+        "stream": true
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano3",
+        "stream": true
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nuance1",
+        "stream": true
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/nuance2",
+        "stream": true
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal2",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.jungle": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/music/game/bromeliad",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 3
+      },
+      {
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/hal2",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/hal3",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/hal4",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/left_to_bloom",
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/nuance1",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/nuance2",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/piano1",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/piano2",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/piano3",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.jungle_edge": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/music/game/bromeliad",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/hal2",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/hal3",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/hal4",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/nuance1",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/nuance2",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/piano1",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/piano2",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/piano3",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.lush_caves": {
+    "__use_legacy_max_distance": "true",
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/music/game/os_piano",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "name": "sound_bedrock/music/game/an_ordinary_day",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/echo_in_the_wind",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/floating_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/piano3",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/calm1",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/calm2",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/calm3",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/aerie",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/firebugs",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/labyrinthine",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/featherfall",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.overworld.mesa": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/music/game/crescent_dunes",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "name": "sound_bedrock/music/game/echo_in_the_wind",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/featherfall",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/hal2",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/hal3",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/hal4",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/nuance1",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/nuance2",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sound_bedrock/music/game/piano1",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/piano2",
+        "stream": true
+      },
+      {
+        "name": "sound_bedrock/music/game/piano3",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.snowy_slopes": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/an_ordinary_day",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/stand_tall",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/pokopoko",
+        "stream": true,
+        "volume": 0.8
+      }
+    ]
+  },
+  "music.overworld.stony_peaks": {
+    "category": "music",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/stand_tall",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/wending",
+        "stream": true,
+        "volume": 0.4,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/eld_unknown",
+        "volume": 0.4,
+        "weight": 2
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/endless",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/piano3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/music/game/hal4",
+        "stream": true,
+        "weight": 1
+      }
+    ]
+  }
+}

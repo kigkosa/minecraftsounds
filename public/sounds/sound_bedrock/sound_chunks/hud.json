@@ -1,0 +1,10 @@
+{
+  "hud.bubble.pop": {
+    "category": "ui",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/bubbles/hud_bubble"
+    ]
+  }
+}

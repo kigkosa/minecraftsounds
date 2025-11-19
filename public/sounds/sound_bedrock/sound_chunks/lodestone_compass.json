@@ -1,0 +1,11 @@
+{
+  "lodestone_compass.link_compass_to_lodestone": {
+    "category": "block",
+    "max_distance": 7,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/item/lock_compass1",
+      "sound_bedrock/item/lock_compass2"
+    ]
+  }
+}

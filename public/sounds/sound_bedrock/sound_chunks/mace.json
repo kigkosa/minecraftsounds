@@ -1,0 +1,31 @@
+{
+  "mace.heavy_smash_ground": {
+    "category": "player",
+    "max_distance": 6,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/item/mace/smash_ground_heavy"
+    ]
+  },
+  "mace.smash_air": {
+    "category": "player",
+    "max_distance": 16,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/item/mace/smash_air1",
+      "sound_bedrock/item/mace/smash_air2",
+      "sound_bedrock/item/mace/smash_air3"
+    ]
+  },
+  "mace.smash_ground": {
+    "category": "player",
+    "max_distance": 6,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/item/mace/smash_ground1",
+      "sound_bedrock/item/mace/smash_ground2",
+      "sound_bedrock/item/mace/smash_ground3",
+      "sound_bedrock/item/mace/smash_ground4"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "copper.wax.off": {
+    "category": "neutral",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/item/axe/wax_off1",
+      "sound_bedrock/item/axe/wax_off2",
+      "sound_bedrock/item/axe/wax_off3"
+    ]
+  },
+  "copper.wax.on": {
+    "category": "neutral",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/item/honeycomb/wax_on1",
+      "sound_bedrock/item/honeycomb/wax_on2",
+      "sound_bedrock/item/honeycomb/wax_on3"
+    ]
+  }
+}

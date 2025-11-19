@@ -1,0 +1,47 @@
+{
+  "firework.blast": {
+    "__use_legacy_max_distance": "true",
+    "category": "ambient",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/fireworks/blast1"
+    ]
+  },
+  "firework.large_blast": {
+    "__use_legacy_max_distance": "true",
+    "category": "ambient",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/fireworks/largeBlast1"
+    ]
+  },
+  "firework.launch": {
+    "__use_legacy_max_distance": "true",
+    "category": "ambient",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/fireworks/launch1"
+    ]
+  },
+  "firework.shoot": {
+    "__use_legacy_max_distance": "true",
+    "category": "ambient",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/random/bow"
+    ]
+  },
+  "firework.twinkle": {
+    "__use_legacy_max_distance": "true",
+    "category": "ambient",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/fireworks/twinkle1"
+    ]
+  }
+}

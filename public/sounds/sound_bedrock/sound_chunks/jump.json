@@ -1,0 +1,571 @@
+{
+  "jump.ancient_debris": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/ancient_debris1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/ancient_debris2"
+      },
+      "sound_bedrock/step/ancient_debris3",
+      "sound_bedrock/step/ancient_debris4",
+      "sound_bedrock/step/ancient_debris5"
+    ]
+  },
+  "jump.azalea": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/azalea/step1",
+      "sound_bedrock/block/azalea/step2",
+      "sound_bedrock/block/azalea/step3",
+      "sound_bedrock/block/azalea/step4",
+      "sound_bedrock/block/azalea/step5",
+      "sound_bedrock/block/azalea/step6"
+    ]
+  },
+  "jump.basalt": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/basalt1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/basalt2"
+      },
+      "sound_bedrock/step/basalt3",
+      "sound_bedrock/step/basalt4",
+      "sound_bedrock/step/basalt5",
+      "sound_bedrock/step/basalt6"
+    ]
+  },
+  "jump.big_dripleaf": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/big_dripleaf/step1",
+      "sound_bedrock/block/big_dripleaf/step2",
+      "sound_bedrock/block/big_dripleaf/step3",
+      "sound_bedrock/block/big_dripleaf/step4",
+      "sound_bedrock/block/big_dripleaf/step5",
+      "sound_bedrock/block/big_dripleaf/step6"
+    ]
+  },
+  "jump.bone_block": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/bone_block1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/bone_block2"
+      },
+      "sound_bedrock/step/bone_block3",
+      "sound_bedrock/step/bone_block4",
+      "sound_bedrock/step/bone_block5"
+    ]
+  },
+  "jump.cave_vines": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/vines1",
+      "sound_bedrock/step/vines2",
+      "sound_bedrock/step/vines3",
+      "sound_bedrock/step/vines4",
+      "sound_bedrock/step/vines5"
+    ]
+  },
+  "jump.chain": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/chain1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/chain2"
+      },
+      "sound_bedrock/step/chain3",
+      "sound_bedrock/step/chain4",
+      "sound_bedrock/step/chain5",
+      "sound_bedrock/step/chain6"
+    ]
+  },
+  "jump.cloth": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/jump/cloth1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/jump/cloth2"
+      },
+      "sound_bedrock/jump/cloth3",
+      "sound_bedrock/jump/cloth4"
+    ]
+  },
+  "jump.coral": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/coral1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/coral2"
+      },
+      "sound_bedrock/step/coral3",
+      "sound_bedrock/step/coral4",
+      "sound_bedrock/step/coral5",
+      "sound_bedrock/step/coral6"
+    ]
+  },
+  "jump.deepslate": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/deepslate/step1",
+      "sound_bedrock/block/deepslate/step2",
+      "sound_bedrock/block/deepslate/step3",
+      "sound_bedrock/block/deepslate/step4",
+      "sound_bedrock/block/deepslate/step5",
+      "sound_bedrock/block/deepslate/step6"
+    ]
+  },
+  "jump.deepslate_bricks": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/deepslate_bricks/step1",
+      "sound_bedrock/block/deepslate_bricks/step2",
+      "sound_bedrock/block/deepslate_bricks/step3",
+      "sound_bedrock/block/deepslate_bricks/step4",
+      "sound_bedrock/block/deepslate_bricks/step5"
+    ]
+  },
+  "jump.dirt_with_roots": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/rooted_dirt/step1",
+      "sound_bedrock/block/rooted_dirt/step2",
+      "sound_bedrock/block/rooted_dirt/step3",
+      "sound_bedrock/block/rooted_dirt/step4",
+      "sound_bedrock/block/rooted_dirt/step5",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/block/rooted_dirt/step6"
+      }
+    ]
+  },
+  "jump.dripstone_block": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/dripstone/step1",
+      "sound_bedrock/block/dripstone/step2",
+      "sound_bedrock/block/dripstone/step3",
+      "sound_bedrock/block/dripstone/step4",
+      "sound_bedrock/block/dripstone/step5",
+      "sound_bedrock/block/dripstone/step6"
+    ]
+  },
+  "jump.grass": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/jump/grass1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/jump/grass2"
+      },
+      "sound_bedrock/jump/grass3",
+      "sound_bedrock/jump/grass4"
+    ]
+  },
+  "jump.gravel": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/jump/gravel1",
+      "sound_bedrock/jump/gravel2",
+      "sound_bedrock/jump/gravel3",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/jump/gravel4"
+      }
+    ]
+  },
+  "jump.hanging_roots": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/hanging_roots/step1",
+      "sound_bedrock/block/hanging_roots/step2",
+      "sound_bedrock/block/hanging_roots/step3",
+      "sound_bedrock/block/hanging_roots/step4",
+      "sound_bedrock/block/hanging_roots/step5",
+      "sound_bedrock/block/hanging_roots/step6"
+    ]
+  },
+  "jump.honey_block": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/honey_block1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/honey_block2"
+      },
+      "sound_bedrock/step/honey_block3",
+      "sound_bedrock/step/honey_block4",
+      "sound_bedrock/step/honey_block5"
+    ]
+  },
+  "jump.moss": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/moss/step1",
+      "sound_bedrock/block/moss/step2",
+      "sound_bedrock/block/moss/step3",
+      "sound_bedrock/block/moss/step4",
+      "sound_bedrock/block/moss/step5",
+      "sound_bedrock/block/moss/step6"
+    ]
+  },
+  "jump.nether_brick": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/nether_brick1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/nether_brick2"
+      },
+      "sound_bedrock/step/nether_brick3",
+      "sound_bedrock/step/nether_brick4",
+      "sound_bedrock/step/nether_brick5",
+      "sound_bedrock/step/nether_brick6"
+    ]
+  },
+  "jump.nether_gold_ore": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/nether_gold_ore1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/nether_gold_ore2"
+      },
+      "sound_bedrock/step/nether_gold_ore3",
+      "sound_bedrock/step/nether_gold_ore4",
+      "sound_bedrock/step/nether_gold_ore5"
+    ]
+  },
+  "jump.nether_sprouts": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/nether_sprouts1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/nether_sprouts2"
+      },
+      "sound_bedrock/step/nether_sprouts3",
+      "sound_bedrock/step/nether_sprouts4",
+      "sound_bedrock/step/nether_sprouts5"
+    ]
+  },
+  "jump.nether_wart": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/nether_wart1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/nether_wart2"
+      },
+      "sound_bedrock/step/nether_wart3",
+      "sound_bedrock/step/nether_wart4",
+      "sound_bedrock/step/nether_wart5"
+    ]
+  },
+  "jump.netherite": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/netherite1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/netherite2"
+      },
+      "sound_bedrock/step/netherite3",
+      "sound_bedrock/step/netherite4",
+      "sound_bedrock/step/netherite5",
+      "sound_bedrock/step/netherite6"
+    ]
+  },
+  "jump.netherrack": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/netherrack1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/netherrack2"
+      },
+      "sound_bedrock/step/netherrack3",
+      "sound_bedrock/step/netherrack4",
+      "sound_bedrock/step/netherrack5",
+      "sound_bedrock/step/netherrack6"
+    ]
+  },
+  "jump.nylium": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/nylium1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/nylium2"
+      },
+      "sound_bedrock/step/nylium3",
+      "sound_bedrock/step/nylium4",
+      "sound_bedrock/step/nylium5",
+      "sound_bedrock/step/nylium6"
+    ]
+  },
+  "jump.pointed_dripstone": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/dripstone/step1",
+      "sound_bedrock/block/dripstone/step2",
+      "sound_bedrock/block/dripstone/step3",
+      "sound_bedrock/block/dripstone/step4",
+      "sound_bedrock/block/dripstone/step5",
+      "sound_bedrock/block/dripstone/step6"
+    ]
+  },
+  "jump.roots": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/roots1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/roots2"
+      },
+      "sound_bedrock/step/roots3",
+      "sound_bedrock/step/roots4",
+      "sound_bedrock/step/roots5"
+    ]
+  },
+  "jump.sand": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/jump/sand1",
+      "sound_bedrock/jump/sand2",
+      "sound_bedrock/jump/sand3",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/jump/sand4"
+      }
+    ]
+  },
+  "jump.sculk_sensor": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/sculk_sensor/step1",
+      "sound_bedrock/block/sculk_sensor/step2",
+      "sound_bedrock/block/sculk_sensor/step3",
+      "sound_bedrock/block/sculk_sensor/step4",
+      "sound_bedrock/block/sculk_sensor/step5",
+      "sound_bedrock/block/sculk_sensor/step6"
+    ]
+  },
+  "jump.shroomlight": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/shroomlight1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/shroomlight2"
+      },
+      "sound_bedrock/step/shroomlight3",
+      "sound_bedrock/step/shroomlight4",
+      "sound_bedrock/step/shroomlight5",
+      "sound_bedrock/step/shroomlight6"
+    ]
+  },
+  "jump.slime": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/mob/slime/small1",
+      "sound_bedrock/mob/slime/small2",
+      "sound_bedrock/mob/slime/small3",
+      "sound_bedrock/mob/slime/small4",
+      "sound_bedrock/mob/slime/small5"
+    ]
+  },
+  "jump.snow": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/jump/snow1"
+      },
+      "sound_bedrock/jump/snow2",
+      "sound_bedrock/jump/snow3",
+      "sound_bedrock/jump/snow4"
+    ]
+  },
+  "jump.soul_sand": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/soul_sand1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/soul_sand2"
+      },
+      "sound_bedrock/step/soul_sand3",
+      "sound_bedrock/step/soul_sand4",
+      "sound_bedrock/step/soul_sand5"
+    ]
+  },
+  "jump.soul_soil": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/soul_soil1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/soul_soil2"
+      },
+      "sound_bedrock/step/soul_soil3",
+      "sound_bedrock/step/soul_soil4",
+      "sound_bedrock/step/soul_soil5"
+    ]
+  },
+  "jump.spore_blossom": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/spore_blossom/step1",
+      "sound_bedrock/block/spore_blossom/step2",
+      "sound_bedrock/block/spore_blossom/step3",
+      "sound_bedrock/block/spore_blossom/step4",
+      "sound_bedrock/block/spore_blossom/step5",
+      "sound_bedrock/block/spore_blossom/step6"
+    ]
+  },
+  "jump.stem": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/stem1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/stem2"
+      },
+      "sound_bedrock/step/stem3",
+      "sound_bedrock/step/stem4",
+      "sound_bedrock/step/stem5",
+      "sound_bedrock/step/stem6"
+    ]
+  },
+  "jump.stone": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/jump/stone1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/jump/stone2"
+      },
+      "sound_bedrock/jump/stone3",
+      "sound_bedrock/jump/stone4"
+    ]
+  },
+  "jump.vines": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/step/vines1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/step/vines2"
+      },
+      "sound_bedrock/step/vines3",
+      "sound_bedrock/step/vines4",
+      "sound_bedrock/step/vines5"
+    ]
+  },
+  "jump.wood": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/jump/wood1",
+      "sound_bedrock/jump/wood2",
+      "sound_bedrock/jump/wood3",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/jump/wood4"
+      }
+    ]
+  }
+}

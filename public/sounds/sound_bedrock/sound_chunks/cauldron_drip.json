@@ -1,0 +1,28 @@
+{
+  "cauldron_drip.lava.pointed_dripstone": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/pointed_dripstone/drip_lava_cauldron1",
+      "sound_bedrock/block/pointed_dripstone/drip_lava_cauldron2",
+      "sound_bedrock/block/pointed_dripstone/drip_lava_cauldron3",
+      "sound_bedrock/block/pointed_dripstone/drip_lava_cauldron4"
+    ]
+  },
+  "cauldron_drip.water.pointed_dripstone": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/pointed_dripstone/drip_water_cauldron1",
+      "sound_bedrock/block/pointed_dripstone/drip_water_cauldron2",
+      "sound_bedrock/block/pointed_dripstone/drip_water_cauldron3",
+      "sound_bedrock/block/pointed_dripstone/drip_water_cauldron4",
+      "sound_bedrock/block/pointed_dripstone/drip_water_cauldron5",
+      "sound_bedrock/block/pointed_dripstone/drip_water_cauldron6",
+      "sound_bedrock/block/pointed_dripstone/drip_water_cauldron7",
+      "sound_bedrock/block/pointed_dripstone/drip_water_cauldron8"
+    ]
+  }
+}

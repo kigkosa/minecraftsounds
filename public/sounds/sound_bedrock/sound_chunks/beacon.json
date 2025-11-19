@@ -1,0 +1,40 @@
+{
+  "beacon.activate": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/beacon/activate"
+    ]
+  },
+  "beacon.ambient": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/beacon/ambient"
+    ]
+  },
+  "beacon.deactivate": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/beacon/deactivate"
+    ]
+  },
+  "beacon.power": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/beacon/power1",
+      "sound_bedrock/block/beacon/power2",
+      "sound_bedrock/block/beacon/power3"
+    ]
+  }
+}

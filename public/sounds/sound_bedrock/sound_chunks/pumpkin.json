@@ -1,0 +1,11 @@
+{
+  "pumpkin.carve": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/pumpkin/carve1",
+      "sound_bedrock/block/pumpkin/carve2"
+    ]
+  }
+}

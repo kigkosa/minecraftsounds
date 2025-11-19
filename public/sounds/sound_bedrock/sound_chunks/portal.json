@@ -1,0 +1,29 @@
+{
+  "portal.portal": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/portal/portal"
+    ]
+  },
+  "portal.travel": {
+    "__use_legacy_max_distance": "true",
+    "category": "ambient",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/portal/travel"
+    ]
+  },
+  "portal.trigger": {
+    "__use_legacy_max_distance": "true",
+    "category": "ambient",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/portal/trigger"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "conduit.activate": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/conduit/activate"
+    ]
+  },
+  "conduit.ambient": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/conduit/ambient"
+    ]
+  },
+  "conduit.attack": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/conduit/attack1",
+      "sound_bedrock/block/conduit/attack2",
+      "sound_bedrock/block/conduit/attack3"
+    ]
+  },
+  "conduit.deactivate": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/conduit/deactivate"
+    ]
+  },
+  "conduit.short": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/conduit/short1",
+      "sound_bedrock/block/conduit/short2",
+      "sound_bedrock/block/conduit/short3",
+      "sound_bedrock/block/conduit/short4",
+      "sound_bedrock/block/conduit/short5",
+      "sound_bedrock/block/conduit/short6",
+      "sound_bedrock/block/conduit/short7",
+      "sound_bedrock/block/conduit/short8",
+      "sound_bedrock/block/conduit/short9"
+    ]
+  }
+}

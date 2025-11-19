@@ -1,0 +1,175 @@
+{
+  "armor.break_wolf": {
+    "category": "neutral",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/armor/break_wolf"
+    ]
+  },
+  "armor.crack_wolf": {
+    "category": "neutral",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/armor/crack_wolf1",
+      "sound_bedrock/armor/crack_wolf2",
+      "sound_bedrock/armor/crack_wolf3",
+      "sound_bedrock/armor/crack_wolf4"
+    ]
+  },
+  "armor.damage_wolf": {
+    "category": "neutral",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/armor/damage_wolf1",
+      "sound_bedrock/armor/damage_wolf2",
+      "sound_bedrock/armor/damage_wolf3",
+      "sound_bedrock/armor/damage_wolf4"
+    ]
+  },
+  "armor.equip_chain": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/armor/equip_chain1",
+      "sound_bedrock/armor/equip_chain2",
+      "sound_bedrock/armor/equip_chain3",
+      "sound_bedrock/armor/equip_chain4",
+      "sound_bedrock/armor/equip_chain5",
+      "sound_bedrock/armor/equip_chain6"
+    ]
+  },
+  "armor.equip_copper": {
+    "category": "neutral",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/armor/equip_copper1",
+      "sound_bedrock/armor/equip_copper2",
+      "sound_bedrock/armor/equip_copper3",
+      "sound_bedrock/armor/equip_copper4",
+      "sound_bedrock/armor/equip_copper5",
+      "sound_bedrock/armor/equip_copper6"
+    ]
+  },
+  "armor.equip_diamond": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/armor/equip_diamond1",
+      "sound_bedrock/armor/equip_diamond2",
+      "sound_bedrock/armor/equip_diamond3",
+      "sound_bedrock/armor/equip_diamond4",
+      "sound_bedrock/armor/equip_diamond5",
+      "sound_bedrock/armor/equip_diamond6"
+    ]
+  },
+  "armor.equip_generic": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/armor/equip_generic1",
+      "sound_bedrock/armor/equip_generic2",
+      "sound_bedrock/armor/equip_generic3",
+      "sound_bedrock/armor/equip_generic4",
+      "sound_bedrock/armor/equip_generic5",
+      "sound_bedrock/armor/equip_generic6"
+    ]
+  },
+  "armor.equip_gold": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/armor/equip_gold1",
+      "sound_bedrock/armor/equip_gold2",
+      "sound_bedrock/armor/equip_gold3",
+      "sound_bedrock/armor/equip_gold4",
+      "sound_bedrock/armor/equip_gold5",
+      "sound_bedrock/armor/equip_gold6"
+    ]
+  },
+  "armor.equip_iron": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/armor/equip_iron1",
+      "sound_bedrock/armor/equip_iron2",
+      "sound_bedrock/armor/equip_iron3",
+      "sound_bedrock/armor/equip_iron4",
+      "sound_bedrock/armor/equip_iron5",
+      "sound_bedrock/armor/equip_iron6"
+    ]
+  },
+  "armor.equip_leather": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/armor/equip_leather1",
+      "sound_bedrock/armor/equip_leather2",
+      "sound_bedrock/armor/equip_leather3",
+      "sound_bedrock/armor/equip_leather4",
+      "sound_bedrock/armor/equip_leather5",
+      "sound_bedrock/armor/equip_leather6"
+    ]
+  },
+  "armor.equip_netherite": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/armor/equip_netherite1",
+      "sound_bedrock/armor/equip_netherite2",
+      "sound_bedrock/armor/equip_netherite3",
+      "sound_bedrock/armor/equip_netherite4"
+    ]
+  },
+  "armor.equip_wolf": {
+    "category": "neutral",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/armor/equip_wolf1",
+        "pitch": 1.1
+      },
+      {
+        "name": "sound_bedrock/armor/equip_wolf2",
+        "pitch": 1.1
+      }
+    ]
+  },
+  "armor.repair_wolf": {
+    "category": "neutral",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/armor/repair_wolf1",
+      "sound_bedrock/armor/repair_wolf2",
+      "sound_bedrock/armor/repair_wolf3",
+      "sound_bedrock/armor/repair_wolf4"
+    ]
+  },
+  "armor.unequip_wolf": {
+    "category": "neutral",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/armor/unequip_wolf1",
+      "sound_bedrock/armor/unequip_wolf2"
+    ]
+  }
+}

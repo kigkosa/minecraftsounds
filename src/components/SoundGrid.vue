@@ -121,18 +121,25 @@ export default {
       this.isLoading = true;
       try {
         const promises = folders.map(async (folder) => {
-          const response1 = await fetch(`/sound_bedrock/sound_chunks/${folder}.json`);
-          const soundsData1 = await response1.json();
+          const ignor = ["enchant","music","event","music_disc","weather"];
+          const response1 = await fetch(`/sounds/sound_bedrock/sound_chunks/${folder}.json`);
+          
+          let soundsData = [];
+          if (!ignor.includes(folder)) {
+            const soundsData1 = await response1.json();
+            soundsData.push(...Object.keys(soundsData1).map(key => ({
+              ...soundsData1[key],
+              key: key.replace(/\.bedrock$/,''),
+              title: "Bedrock"
+            })));
+          }
+          
+          
+          
           const response2 = await fetch(`/sounds/sound_chunks/${folder}.json`);
           const soundsData2 = await response2.json();
-          let soundsData = [];
           // add title key for bedrock sounds
 
-          soundsData.push(...Object.keys(soundsData1).map(key => ({
-            ...soundsData1[key],
-            key: key.replace(/\.bedrock$/,''),
-            title: "Bedrock"
-          })));
           soundsData.push(...Object.keys(soundsData2).map(key => ({
             ...soundsData2[key],
             key: key.replace(/\.java$/,''),

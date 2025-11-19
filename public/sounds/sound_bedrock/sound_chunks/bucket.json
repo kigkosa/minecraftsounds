@@ -1,0 +1,104 @@
+{
+  "bucket.empty_fish": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/bucket/empty_fish1"
+      },
+      "sound_bedrock/bucket/empty_fish2",
+      "sound_bedrock/bucket/empty_fish3"
+    ]
+  },
+  "bucket.empty_lava": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/bucket/empty_lava1"
+      },
+      "sound_bedrock/bucket/empty_lava2",
+      "sound_bedrock/bucket/empty_lava3"
+    ]
+  },
+  "bucket.empty_powder_snow": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/bucket/empty_powder_snow1",
+      "sound_bedrock/bucket/empty_powder_snow2"
+    ]
+  },
+  "bucket.empty_water": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/bucket/empty1",
+      "sound_bedrock/bucket/empty2",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/bucket/empty3"
+      }
+    ]
+  },
+  "bucket.fill_fish": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/bucket/fill_fish1"
+      },
+      "sound_bedrock/bucket/fill_fish2",
+      "sound_bedrock/bucket/fill_fish3"
+    ]
+  },
+  "bucket.fill_lava": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/bucket/fill_lava1"
+      },
+      "sound_bedrock/bucket/fill_lava2",
+      "sound_bedrock/bucket/fill_lava3"
+    ]
+  },
+  "bucket.fill_powder_snow": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/bucket/fill_powder_snow1",
+      "sound_bedrock/bucket/fill_powder_snow2"
+    ]
+  },
+  "bucket.fill_water": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/bucket/fill1",
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/bucket/fill2"
+      },
+      "sound_bedrock/bucket/fill3"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "chime.amethyst_block": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/block/amethyst/shimmer",
+        "volume": 1
+      }
+    ]
+  }
+}

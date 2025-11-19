@@ -1,0 +1,27 @@
+{
+  "raid.horn": {
+    "__use_legacy_max_distance": "true",
+    "category": "hostile",
+    "max_distance": 128,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/event/raid/raidhorn_01",
+        "volume": 10
+      },
+      {
+        "name": "sound_bedrock/event/raid/raidhorn_02",
+        "volume": 10
+      },
+      {
+        "name": "sound_bedrock/event/raid/raidhorn_03",
+        "volume": 10
+      },
+      {
+        "name": "sound_bedrock/event/raid/raidhorn_04",
+        "volume": 10
+      }
+    ]
+  }
+}

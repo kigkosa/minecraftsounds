@@ -1,0 +1,12 @@
+{
+  "scrape": {
+    "category": "neutral",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/item/axe/scrape1",
+      "sound_bedrock/item/axe/scrape2",
+      "sound_bedrock/item/axe/scrape3"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "entity.generic.splash": {
+    "category": "ambient",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/liquid/splash"
+      },
+      "sound_bedrock/liquid/splash2"
+    ]
+  },
+  "entity.wither_skeleton.ambient": {
+    "category": "hostile",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/mob/wither_skeleton/idle1",
+      "sound_bedrock/mob/wither_skeleton/idle2",
+      "sound_bedrock/mob/wither_skeleton/idle3"
+    ]
+  },
+  "entity.wither_skeleton.death": {
+    "category": "hostile",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/mob/wither_skeleton/death1",
+      "sound_bedrock/mob/wither_skeleton/death2"
+    ]
+  },
+  "entity.wither_skeleton.hurt": {
+    "category": "hostile",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/mob/wither_skeleton/hurt1",
+      "sound_bedrock/mob/wither_skeleton/hurt2",
+      "sound_bedrock/mob/wither_skeleton/hurt3",
+      "sound_bedrock/mob/wither_skeleton/hurt4"
+    ]
+  },
+  "entity.wither_skeleton.step": {
+    "category": "hostile",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/mob/wither_skeleton/step1",
+      "sound_bedrock/mob/wither_skeleton/step2",
+      "sound_bedrock/mob/wither_skeleton/step3",
+      "sound_bedrock/mob/wither_skeleton/step4"
+    ]
+  },
+  "entity.zombie.converted_to_drowned": {
+    "__use_legacy_max_distance": "true",
+    "category": "hostile",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/mob/drowned/convert1",
+      "sound_bedrock/mob/drowned/convert2",
+      "sound_bedrock/mob/drowned/convert3"
+    ]
+  }
+}

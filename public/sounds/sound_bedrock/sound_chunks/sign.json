@@ -1,0 +1,26 @@
+{
+  "sign.dye.use": {
+    "__use_legacy_max_distance": "true",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/item/dye/dye"
+      }
+    ]
+  },
+  "sign.ink_sac.use": {
+    "__use_legacy_max_distance": "true",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sound_bedrock/item/ink_sac/ink_sac1"
+      },
+      "sound_bedrock/item/ink_sac/ink_sac2",
+      "sound_bedrock/item/ink_sac/ink_sac3"
+    ]
+  }
+}

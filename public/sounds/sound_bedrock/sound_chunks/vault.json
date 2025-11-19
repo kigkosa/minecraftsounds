@@ -1,0 +1,145 @@
+{
+  "vault.activate": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/block/vault/activate",
+        "pitch": 0.95
+      }
+    ]
+  },
+  "vault.ambient": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/vault/ambient1",
+      "sound_bedrock/block/vault/ambient2",
+      "sound_bedrock/block/vault/ambient3"
+    ]
+  },
+  "vault.break": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/block/vault/break1"
+      },
+      {
+        "name": "sound_bedrock/block/vault/break2"
+      },
+      {
+        "name": "sound_bedrock/block/vault/break3"
+      },
+      {
+        "name": "sound_bedrock/block/vault/break4"
+      }
+    ]
+  },
+  "vault.close_shutter": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/trial_spawner/close_shutter"
+    ]
+  },
+  "vault.deactivate": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/vault/deactivate"
+    ]
+  },
+  "vault.eject_item": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/vault/eject_item1",
+      "sound_bedrock/block/vault/eject_item2",
+      "sound_bedrock/block/vault/eject_item3"
+    ]
+  },
+  "vault.hit": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/vault/step1",
+      "sound_bedrock/block/vault/step2",
+      "sound_bedrock/block/vault/step3",
+      "sound_bedrock/block/vault/step4",
+      "sound_bedrock/block/vault/step5",
+      "sound_bedrock/block/vault/step6",
+      "sound_bedrock/block/vault/step7",
+      "sound_bedrock/block/vault/step8"
+    ]
+  },
+  "vault.insert_item": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/vault/insert"
+    ]
+  },
+  "vault.insert_item_fail": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/vault/insert_fail"
+    ]
+  },
+  "vault.open_shutter": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/vault/open_shutter"
+    ]
+  },
+  "vault.place": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/vault/place1",
+      "sound_bedrock/block/vault/place2",
+      "sound_bedrock/block/vault/place3",
+      "sound_bedrock/block/vault/place4"
+    ]
+  },
+  "vault.reject_rewarded_player": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sound_bedrock/block/vault/reject_rewarded_player"
+      }
+    ]
+  },
+  "vault.step": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sound_bedrock/block/vault/step1",
+      "sound_bedrock/block/vault/step2",
+      "sound_bedrock/block/vault/step3",
+      "sound_bedrock/block/vault/step4",
+      "sound_bedrock/block/vault/step5",
+      "sound_bedrock/block/vault/step6",
+      "sound_bedrock/block/vault/step7",
+      "sound_bedrock/block/vault/step8"
+    ]
+  }
+}
