@@ -1,0 +1,25 @@
+{
+  "resonate.amethyst_block": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/amethyst/resonate1",
+        "volume": 3
+      },
+      {
+        "name": "sounds/block/amethyst/resonate2",
+        "volume": 3
+      },
+      {
+        "name": "sounds/block/amethyst/resonate3",
+        "volume": 3
+      },
+      {
+        "name": "sounds/block/amethyst/resonate4",
+        "volume": 3
+      }
+    ]
+  }
+}

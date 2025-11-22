@@ -1,0 +1,13 @@
+{
+  "camera.take_picture": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/camera/camera_snap1",
+      "sounds/camera/camera_snap2",
+      "sounds/camera/camera_snap3"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "crossbow.loading.end": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/crossbow/loading_end"
+      }
+    ]
+  },
+  "crossbow.loading.middle": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/crossbow/loading_middle1",
+      "sounds/crossbow/loading_middle2",
+      "sounds/crossbow/loading_middle3",
+      "sounds/crossbow/loading_middle4"
+    ]
+  },
+  "crossbow.loading.start": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/crossbow/loading_start"
+    ]
+  },
+  "crossbow.quick_charge.end": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/crossbow/quick_charge/quick1_3"
+      },
+      "sounds/crossbow/quick_charge/quick2_3",
+      "sounds/crossbow/quick_charge/quick3_3"
+    ]
+  },
+  "crossbow.quick_charge.middle": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/crossbow/quick_charge/quick1_2",
+      "sounds/crossbow/quick_charge/quick2_2",
+      "sounds/crossbow/quick_charge/quick3_2"
+    ]
+  },
+  "crossbow.quick_charge.start": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/crossbow/quick_charge/quick1_1",
+      "sounds/crossbow/quick_charge/quick2_1",
+      "sounds/crossbow/quick_charge/quick3_1"
+    ]
+  },
+  "crossbow.shoot": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/crossbow/shoot1",
+      "sounds/crossbow/shoot2",
+      "sounds/crossbow/shoot3"
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "bundle.drop_contents": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/item/bundle/drop_contents1",
+        "pitch": 0.95
+      },
+      "sounds/item/bundle/drop_contents2",
+      {
+        "name": "sounds/item/bundle/drop_contents2",
+        "pitch": 0.95
+      },
+      "sounds/item/bundle/drop_contents3",
+      {
+        "name": "sounds/item/bundle/drop_contents3",
+        "pitch": 0.95
+      }
+    ]
+  },
+  "bundle.insert": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/item/bundle/insert1",
+      {
+        "name": "sounds/item/bundle/insert1",
+        "pitch": 0.95
+      },
+      {
+        "name": "sounds/item/bundle/insert1",
+        "pitch": 1.05
+      },
+      "sounds/item/bundle/insert2",
+      {
+        "name": "sounds/item/bundle/insert2",
+        "pitch": 0.95
+      },
+      {
+        "name": "sounds/item/bundle/insert2",
+        "pitch": 1.05
+      },
+      "sounds/item/bundle/insert3",
+      {
+        "name": "sounds/item/bundle/insert3",
+        "pitch": 0.95
+      },
+      {
+        "name": "sounds/item/bundle/insert3",
+        "pitch": 1.05
+      }
+    ]
+  },
+  "bundle.insert_fail": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/item/bundle/insert_fail"
+    ]
+  },
+  "bundle.remove_one": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/item/bundle/remove_one1",
+      {
+        "name": "sounds/item/bundle/remove_one1",
+        "pitch": 1.05
+      },
+      {
+        "name": "sounds/item/bundle/remove_one1",
+        "pitch": 1.1
+      },
+      "sounds/item/bundle/remove_one2",
+      {
+        "name": "sounds/item/bundle/remove_one2",
+        "pitch": 1.05
+      },
+      {
+        "name": "sounds/item/bundle/remove_one2",
+        "pitch": 1.1
+      },
+      "sounds/item/bundle/remove_one3",
+      {
+        "name": "sounds/item/bundle/remove_one3",
+        "pitch": 1.05
+      },
+      {
+        "name": "sounds/item/bundle/remove_one3",
+        "pitch": 1.1
+      }
+    ]
+  }
+}

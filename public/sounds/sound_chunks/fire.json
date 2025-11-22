@@ -1,0 +1,23 @@
+{
+  "fire.fire": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/fire/fire"
+      }
+    ]
+  },
+  "fire.ignite": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/fire/ignite"
+    ]
+  }
+}

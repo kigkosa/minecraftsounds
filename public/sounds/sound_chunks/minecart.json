@@ -1,0 +1,20 @@
+{
+  "minecart.base": {
+    "__use_legacy_max_distance": "true",
+    "category": "neutral",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/minecart/base"
+    ]
+  },
+  "minecart.inside": {
+    "__use_legacy_max_distance": "true",
+    "category": "neutral",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/minecart/inside"
+    ]
+  }
+}

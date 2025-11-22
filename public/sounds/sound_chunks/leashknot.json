@@ -1,0 +1,24 @@
+{
+  "leashknot.break": {
+    "__use_legacy_max_distance": "true",
+    "category": "neutral",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/leashknot/break1",
+      "sounds/leashknot/break2",
+      "sounds/leashknot/break3"
+    ]
+  },
+  "leashknot.place": {
+    "__use_legacy_max_distance": "true",
+    "category": "neutral",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/leashknot/place1",
+      "sounds/leashknot/place2",
+      "sounds/leashknot/place3"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "cake.add_candle": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/cake/add_candle1",
+      "sounds/block/cake/add_candle2",
+      "sounds/block/cake/add_candle3"
+    ]
+  }
+}

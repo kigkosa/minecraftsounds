@@ -1,0 +1,32 @@
+{
+  "bottle.dragonbreath": {
+    "__use_legacy_max_distance": "true",
+    "category": "bottle",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/bottle/fill_dragonbreath1",
+      "sounds/bottle/fill_dragonbreath2"
+    ]
+  },
+  "bottle.empty": {
+    "category": "bottle",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/bottle/empty1",
+      "sounds/bottle/empty2"
+    ]
+  },
+  "bottle.fill": {
+    "category": "bottle",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/bottle/fill1",
+      "sounds/bottle/fill2",
+      "sounds/bottle/fill3",
+      "sounds/bottle/fill4"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ominous_bottle.end_use": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/item/ominous_bottle/dispose"
+    ]
+  }
+}

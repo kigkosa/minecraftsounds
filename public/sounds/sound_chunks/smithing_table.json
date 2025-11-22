@@ -1,0 +1,15 @@
+{
+  "smithing_table.use": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/smithing_table1"
+      },
+      "sounds/random/smithing_table2",
+      "sounds/random/smithing_table3"
+    ]
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "random.anvil_break": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/anvil_break"
+    ]
+  },
+  "random.anvil_land": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/anvil_land"
+    ]
+  },
+  "random.anvil_use": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/anvil_use"
+    ]
+  },
+  "random.bow": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/bow"
+    ]
+  },
+  "random.bowhit": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/bowhit1"
+      },
+      "sounds/random/bowhit2",
+      "sounds/random/bowhit3",
+      "sounds/random/bowhit4"
+    ]
+  },
+  "random.break": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/break"
+      }
+    ]
+  },
+  "random.burp": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/burp"
+    ]
+  },
+  "random.chestclosed": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/chestclosed"
+    ]
+  },
+  "random.chestopen": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/chestopen"
+    ]
+  },
+  "random.click": {
+    "__use_legacy_max_distance": "true",
+    "category": "ui",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/click",
+        "volume": 0.2
+      }
+    ]
+  },
+  "random.door_close": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/door_close",
+        "pitch": 1,
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/random/door_close",
+        "pitch": 1.1,
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/random/door_close",
+        "pitch": 0.9,
+        "volume": 0.4
+      }
+    ]
+  },
+  "random.door_open": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/door_open",
+        "pitch": 1,
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/random/door_open",
+        "pitch": 1.1,
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/random/door_open",
+        "pitch": 0.9,
+        "volume": 0.4
+      }
+    ]
+  },
+  "random.drink": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/drink"
+    ]
+  },
+  "random.drink_honey": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/drink_honey1"
+      },
+      "sounds/random/drink_honey2",
+      {
+        "name": "sounds/random/drink_honey3",
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/random/drink_honey3",
+        "volume": 0.75
+      }
+    ]
+  },
+  "random.eat": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/eat1"
+      },
+      "sounds/random/eat2",
+      "sounds/random/eat3"
+    ]
+  },
+  "random.enderchestclosed": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/enderchest/close"
+    ]
+  },
+  "random.enderchestopen": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/enderchest/open"
+    ]
+  },
+  "random.explode": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/explode1"
+      },
+      "sounds/random/explode2",
+      "sounds/random/explode3",
+      "sounds/random/explode4"
+    ]
+  },
+  "random.fizz": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/fizz"
+    ]
+  },
+  "random.fuse": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/fuse"
+      }
+    ]
+  },
+  "random.glass": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/glass1",
+      "sounds/random/glass2",
+      "sounds/random/glass3"
+    ]
+  },
+  "random.hurt": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/hurt"
+      }
+    ]
+  },
+  "random.levelup": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/levelup"
+      }
+    ]
+  },
+  "random.lever_click": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/click",
+        "volume": 0.3
+      }
+    ]
+  },
+  "random.orb": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/orb"
+      }
+    ]
+  },
+  "random.pop": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/pop"
+    ]
+  },
+  "random.pop2": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/pop2"
+    ]
+  },
+  "random.potion.brewed": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/brewing_stand/brew1",
+      "sounds/block/brewing_stand/brew2"
+    ]
+  },
+  "random.screenshot": {
+    "__use_legacy_max_distance": "true",
+    "category": "ui",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/happy_cam3"
+    ]
+  },
+  "random.shulkerboxclosed": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/shulker_box/close"
+    ]
+  },
+  "random.shulkerboxopen": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/shulker_box/open"
+    ]
+  },
+  "random.splash": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/splash"
+      }
+    ]
+  },
+  "random.stone_click": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/click",
+        "volume": 0.3
+      }
+    ]
+  },
+  "random.swim": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/swim1",
+      "sounds/random/swim2",
+      "sounds/random/swim3",
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/swim4"
+      }
+    ]
+  },
+  "random.toast": {
+    "__use_legacy_max_distance": "true",
+    "category": "ui",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/toast"
+    ]
+  },
+  "random.toast_recipe_unlocking_in": {
+    "category": "ui",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/toast_recipe_unlocking_in"
+    ]
+  },
+  "random.toast_recipe_unlocking_out": {
+    "category": "ui",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/toast_recipe_unlocking_out"
+    ]
+  },
+  "random.totem": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/use_totem"
+    ]
+  },
+  "random.wood_click": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/random/wood_click",
+        "volume": 0.3
+      }
+    ]
+  }
+}

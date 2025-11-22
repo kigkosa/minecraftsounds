@@ -1,0 +1,14 @@
+{
+  "tilt_down.big_dripleaf": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/big_dripleaf/tilt_down1",
+      "sounds/block/big_dripleaf/tilt_down2",
+      "sounds/block/big_dripleaf/tilt_down3",
+      "sounds/block/big_dripleaf/tilt_down4",
+      "sounds/block/big_dripleaf/tilt_down5"
+    ]
+  }
+}

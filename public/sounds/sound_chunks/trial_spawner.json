@@ -1,0 +1,247 @@
+{
+  "trial_spawner.ambient": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/trial_spawner/ambient1",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/ambient2",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/ambient3",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/ambient4",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/ambient5",
+        "pitch": 1,
+        "volume": 1
+      }
+    ]
+  },
+  "trial_spawner.ambient_ominous": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/trial_spawner/ambient_ominous1",
+      "sounds/block/trial_spawner/ambient_ominous2",
+      "sounds/block/trial_spawner/ambient_ominous3",
+      "sounds/block/trial_spawner/ambient_ominous4",
+      "sounds/block/trial_spawner/ambient_ominous5"
+    ]
+  },
+  "trial_spawner.break": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/trial_spawner/break1",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/break2",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/break3",
+        "pitch": 1,
+        "volume": 1
+      }
+    ]
+  },
+  "trial_spawner.charge_activate": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/trial_spawner/charge_activate"
+    ]
+  },
+  "trial_spawner.close_shutter": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/trial_spawner/close_shutter",
+        "pitch": 1,
+        "volume": 1
+      }
+    ]
+  },
+  "trial_spawner.detect_player": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/trial_spawner/detect_player1",
+        "pitch": 0.95,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/detect_player2",
+        "pitch": 0.95,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/detect_player3",
+        "pitch": 0.95,
+        "volume": 1
+      }
+    ]
+  },
+  "trial_spawner.eject_item": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/trial_spawner/eject_item1",
+        "pitch": 1,
+        "volume": 1
+      }
+    ]
+  },
+  "trial_spawner.hit": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/trial_spawner/step1",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/step2",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/step3",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/step4",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/step5",
+        "pitch": 1,
+        "volume": 1
+      }
+    ]
+  },
+  "trial_spawner.open_shutter": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/trial_spawner/open_shutter",
+        "pitch": 1,
+        "volume": 1
+      }
+    ]
+  },
+  "trial_spawner.place": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/trial_spawner/place1",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/place2",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/place3",
+        "pitch": 1,
+        "volume": 1
+      }
+    ]
+  },
+  "trial_spawner.spawn_mob": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/trial_spawner/spawn1",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/spawn2",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/spawn3",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/spawn4",
+        "pitch": 1,
+        "volume": 1
+      }
+    ]
+  },
+  "trial_spawner.step": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/trial_spawner/step1",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/step2",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/step3",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/step4",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/trial_spawner/step5",
+        "pitch": 1,
+        "volume": 1
+      }
+    ]
+  }
+}

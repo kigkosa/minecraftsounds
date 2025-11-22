@@ -1,0 +1,32 @@
+{
+  "liquid.lava": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/liquid/lava"
+      }
+    ]
+  },
+  "liquid.lavapop": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/liquid/lavapop"
+    ]
+  },
+  "liquid.water": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/liquid/water"
+    ]
+  }
+}

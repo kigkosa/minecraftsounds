@@ -1,0 +1,37 @@
+{
+  "damage.fallbig": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/damage/fallbig"
+      }
+    ]
+  },
+  "damage.fallsmall": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/damage/fallsmall"
+      }
+    ]
+  },
+  "damage.thorns": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/enchant/thorns/hit1",
+      "sounds/enchant/thorns/hit2",
+      "sounds/enchant/thorns/hit3",
+      "sounds/enchant/thorns/hit4"
+    ]
+  }
+}

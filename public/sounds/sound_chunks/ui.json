@@ -1,86 +1,159 @@
 {
-  "ui.button.click": {
+  "ui.cartography_table.take_result": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
     "sounds": [
-      "random/click_stereo"
+      {
+        "name": "sounds/ui/cartography_table/drawmap1",
+        "volume": 1
+      },
+      {
+        "name": "sounds/ui/cartography_table/drawmap2",
+        "volume": 1
+      },
+      {
+        "name": "sounds/ui/cartography_table/drawmap3",
+        "volume": 1
+      }
     ]
   },
-  "ui.cartography_table.take_result": {
+  "ui.drawer_close": {
+    "category": "ui",
+    "max_distance": null,
+    "min_distance": null,
     "sounds": [
-      "ui/cartography_table/drawmap1",
-      "ui/cartography_table/drawmap2",
-      "ui/cartography_table/drawmap3"
-    ],
-    "subtitle": "subtitles.ui.cartography_table.take_result"
+      {
+        "name": "sounds/ui/drawer/drawer_close",
+        "volume": 0.4
+      }
+    ]
   },
-  "ui.hud.bubble_pop": {
+  "ui.drawer_open": {
+    "category": "ui",
+    "max_distance": null,
+    "min_distance": null,
     "sounds": [
-      "ui/hud/hud_bubble"
-    ],
-    "subtitle": "subtitles.ui.hud.bubble_pop"
+      {
+        "name": "sounds/ui/drawer/drawer_open",
+        "volume": 0.4
+      }
+    ]
+  },
+  "ui.hardcore_disable": {
+    "__use_legacy_max_distance": "true",
+    "category": "ui",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/ui/hardcore/hardcore_disable",
+        "volume": 0.4
+      }
+    ]
+  },
+  "ui.hardcore_enable": {
+    "__use_legacy_max_distance": "true",
+    "category": "ui",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/ui/hardcore/hardcore_enable",
+        "volume": 0.4
+      }
+    ]
+  },
+  "ui.hardcore_toggle_press": {
+    "__use_legacy_max_distance": "true",
+    "category": "ui",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/fire/ignite",
+        "volume": 0.5
+      }
+    ]
   },
   "ui.loom.select_pattern": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
     "sounds": [
-      "ui/loom/select_pattern1",
-      "ui/loom/select_pattern2",
-      "ui/loom/select_pattern3",
-      "ui/loom/select_pattern4",
-      "ui/loom/select_pattern5"
+      {
+        "name": "sounds/ui/loom/select_pattern1",
+        "volume": 1
+      },
+      {
+        "name": "sounds/ui/loom/select_pattern2",
+        "volume": 1
+      },
+      {
+        "name": "sounds/ui/loom/select_pattern3",
+        "volume": 1
+      },
+      {
+        "name": "sounds/ui/loom/select_pattern4",
+        "volume": 1
+      },
+      {
+        "name": "sounds/ui/loom/select_pattern5",
+        "volume": 1
+      }
     ]
   },
   "ui.loom.take_result": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
     "sounds": [
       {
-        "name": "ui/loom/take_result1",
-        "volume": 0.5
+        "name": "sounds/ui/loom/take_result1",
+        "volume": 1
       },
       {
-        "name": "ui/loom/take_result2",
-        "volume": 0.5
+        "name": "sounds/ui/loom/take_result2",
+        "volume": 1
       }
-    ],
-    "subtitle": "subtitles.ui.loom.take_result"
+    ]
   },
-  "ui.stonecutter.select_recipe": {
+  "ui.reject": {
+    "category": "ui",
+    "max_distance": null,
+    "min_distance": null,
     "sounds": [
-      "random/click"
+      {
+        "name": "sounds/note/bass"
+      }
     ]
   },
   "ui.stonecutter.take_result": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
     "sounds": [
-      "ui/stonecutter/cut1",
       {
-        "name": "ui/stonecutter/cut1",
-        "pitch": 0.92
+        "name": "sounds/ui/stonecutter/cut1",
+        "volume": 1
       },
-      "ui/stonecutter/cut2",
       {
-        "name": "ui/stonecutter/cut2",
-        "pitch": 0.92
-      }
-    ],
-    "subtitle": "subtitles.ui.stonecutter.take_result"
-  },
-  "ui.toast.challenge_complete": {
-    "sounds": [
+        "name": "sounds/ui/stonecutter/cut1",
+        "pitch": 0.92,
+        "volume": 1
+      },
       {
-        "name": "ui/toast/challenge_complete",
-        "volume": 0.6
-      }
-    ]
-  },
-  "ui.toast.in": {
-    "sounds": [
+        "name": "sounds/ui/stonecutter/cut2",
+        "volume": 1
+      },
       {
-        "name": "ui/toast/in",
-        "volume": 0.4
-      }
-    ]
-  },
-  "ui.toast.out": {
-    "sounds": [
-      {
-        "name": "ui/toast/out",
-        "volume": 0.4
+        "name": "sounds/ui/stonecutter/cut2",
+        "pitch": 0.92,
+        "volume": 1
       }
     ]
   }

@@ -1,72 +1,61 @@
 {
   "particle.soul_escape": {
+    "category": "player",
+    "max_distance": 12,
+    "min_distance": null,
     "sounds": [
       {
-        "attenuation_distance": 12,
-        "name": "enchant/soulspeed/soulspeed1",
+        "name": "sounds/particle/soulspeed1",
         "volume": 0.25
       },
       {
-        "attenuation_distance": 12,
-        "name": "enchant/soulspeed/soulspeed2",
+        "name": "sounds/particle/soulspeed2",
         "volume": 0.25
       },
       {
-        "attenuation_distance": 12,
-        "name": "enchant/soulspeed/soulspeed3",
+        "name": "sounds/particle/soulspeed3",
         "volume": 0.25
       },
       {
-        "attenuation_distance": 12,
-        "name": "enchant/soulspeed/soulspeed4",
+        "name": "sounds/particle/soulspeed4",
         "volume": 0.25
       },
       {
-        "attenuation_distance": 12,
-        "name": "enchant/soulspeed/soulspeed5",
+        "name": "sounds/particle/soulspeed5",
         "volume": 0.25
       },
       {
-        "attenuation_distance": 12,
-        "name": "enchant/soulspeed/soulspeed6",
+        "name": "sounds/particle/soulspeed6",
         "volume": 0.25
       },
       {
-        "attenuation_distance": 12,
-        "name": "enchant/soulspeed/soulspeed7",
+        "name": "sounds/particle/soulspeed7",
         "volume": 0.25
       },
       {
-        "attenuation_distance": 12,
-        "name": "enchant/soulspeed/soulspeed8",
+        "name": "sounds/particle/soulspeed8",
         "volume": 0.25
       },
       {
-        "attenuation_distance": 12,
-        "name": "enchant/soulspeed/soulspeed9",
+        "name": "sounds/particle/soulspeed9",
         "volume": 0.25
       },
       {
-        "attenuation_distance": 12,
-        "name": "enchant/soulspeed/soulspeed10",
+        "name": "sounds/particle/soulspeed10",
         "volume": 0.25
       },
       {
-        "attenuation_distance": 12,
-        "name": "enchant/soulspeed/soulspeed11",
+        "name": "sounds/particle/soulspeed11",
         "volume": 0.25
       },
       {
-        "attenuation_distance": 12,
-        "name": "enchant/soulspeed/soulspeed12",
+        "name": "sounds/particle/soulspeed12",
         "volume": 0.25
       },
       {
-        "attenuation_distance": 12,
-        "name": "enchant/soulspeed/soulspeed13",
+        "name": "sounds/particle/soulspeed13",
         "volume": 0.25
       }
-    ],
-    "subtitle": "subtitles.particle.soul_escape"
+    ]
   }
 }

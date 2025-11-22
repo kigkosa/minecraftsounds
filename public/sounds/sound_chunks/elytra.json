@@ -1,0 +1,11 @@
+{
+  "elytra.loop": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": 5,
+    "sounds": [
+      "sounds/elytra/elytra_loop"
+    ]
+  }
+}

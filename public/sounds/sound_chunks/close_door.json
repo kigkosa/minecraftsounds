@@ -1,0 +1,18 @@
+{
+  "close_door.copper": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/copper_door/toggle1"
+      },
+      {
+        "name": "sounds/block/copper_door/toggle2"
+      },
+      {
+        "name": "sounds/block/copper_door/toggle3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "close.bamboo_wood_door": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/bamboo_wood_door/toggle1",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/block/bamboo_wood_door/toggle2",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/block/bamboo_wood_door/toggle3",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/block/bamboo_wood_door/toggle4",
+        "volume": 0.9
+      }
+    ]
+  },
+  "close.bamboo_wood_fence_gate": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/bamboo_wood_fence/toggle1",
+        "pitch": 1.1,
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/block/bamboo_wood_fence/toggle2",
+        "pitch": 1.1,
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/block/bamboo_wood_fence/toggle3",
+        "pitch": 1.1,
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/block/bamboo_wood_fence/toggle4",
+        "pitch": 1.1,
+        "volume": 0.9
+      }
+    ]
+  },
+  "close.bamboo_wood_trapdoor": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/bamboo_wood_trapdoor/toggle1",
+      "sounds/block/bamboo_wood_trapdoor/toggle2",
+      "sounds/block/bamboo_wood_trapdoor/toggle3",
+      "sounds/block/bamboo_wood_trapdoor/toggle4"
+    ]
+  },
+  "close.cherry_wood_door": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/cherry_wood_door/toggle1",
+      "sounds/block/cherry_wood_door/toggle2",
+      "sounds/block/cherry_wood_door/toggle3",
+      "sounds/block/cherry_wood_door/toggle4"
+    ]
+  },
+  "close.cherry_wood_fence_gate": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/cherry_wood_fence_gate/toggle1",
+      "sounds/block/cherry_wood_fence_gate/toggle2",
+      "sounds/block/cherry_wood_fence_gate/toggle3",
+      "sounds/block/cherry_wood_fence_gate/toggle4"
+    ]
+  },
+  "close.cherry_wood_trapdoor": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/cherry_wood_trapdoor/toggle1",
+      "sounds/block/cherry_wood_trapdoor/toggle2",
+      "sounds/block/cherry_wood_trapdoor/toggle3",
+      "sounds/block/cherry_wood_trapdoor/toggle4"
+    ]
+  },
+  "close.fence_gate": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/fence_gate/close1",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/block/fence_gate/close2",
+        "volume": 0.9
+      }
+    ]
+  },
+  "close.iron_door": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/iron_door/close1",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/block/iron_door/close2",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/block/iron_door/close3",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/block/iron_door/close4",
+        "volume": 0.9
+      }
+    ]
+  },
+  "close.iron_trapdoor": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/iron_trapdoor/close1",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/block/iron_trapdoor/close2",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/block/iron_trapdoor/close3",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/block/iron_trapdoor/close4",
+        "volume": 0.9
+      }
+    ]
+  },
+  "close.nether_wood_door": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/nether_wood_door/toggle1",
+      "sounds/block/nether_wood_door/toggle2",
+      "sounds/block/nether_wood_door/toggle3",
+      "sounds/block/nether_wood_door/toggle4"
+    ]
+  },
+  "close.nether_wood_fence_gate": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/nether_wood_fence/toggle1",
+      "sounds/block/nether_wood_fence/toggle2",
+      "sounds/block/nether_wood_fence/toggle3",
+      "sounds/block/nether_wood_fence/toggle4"
+    ]
+  },
+  "close.nether_wood_trapdoor": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/nether_wood_trapdoor/toggle1",
+      "sounds/block/nether_wood_trapdoor/toggle2",
+      "sounds/block/nether_wood_trapdoor/toggle3",
+      "sounds/block/nether_wood_trapdoor/toggle4"
+    ]
+  },
+  "close.wooden_door": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/wooden_door/close1",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/block/wooden_door/close2",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/block/wooden_door/close3",
+        "volume": 0.9
+      }
+    ]
+  },
+  "close.wooden_trapdoor": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/wooden_trapdoor/close1",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/block/wooden_trapdoor/close2",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/block/wooden_trapdoor/close3",
+        "volume": 0.9
+      }
+    ]
+  }
+}
