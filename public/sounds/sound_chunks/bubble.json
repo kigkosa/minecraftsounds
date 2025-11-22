@@ -1,0 +1,57 @@
+{
+  "bubble.down": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/bubbles/whirlpool_ambient1",
+      "sounds/bubbles/whirlpool_ambient2",
+      "sounds/bubbles/whirlpool_ambient3",
+      "sounds/bubbles/whirlpool_ambient4",
+      "sounds/bubbles/whirlpool_ambient5"
+    ]
+  },
+  "bubble.downinside": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/bubbles/whirlpool_inside"
+    ]
+  },
+  "bubble.pop": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/bubbles/bubble1",
+      "sounds/bubbles/bubble2",
+      "sounds/bubbles/bubble3"
+    ]
+  },
+  "bubble.up": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/bubbles/upwards_ambient1",
+      "sounds/bubbles/upwards_ambient2",
+      "sounds/bubbles/upwards_ambient3",
+      "sounds/bubbles/upwards_ambient4",
+      "sounds/bubbles/upwards_ambient5"
+    ]
+  },
+  "bubble.upinside": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/bubbles/upwards_inside"
+    ]
+  }
+}

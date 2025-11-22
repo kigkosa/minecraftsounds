@@ -1,0 +1,41 @@
+{
+  "respawn_anchor.ambient": {
+    "category": "block",
+    "max_distance": 7,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/respawn_anchor/ambient1",
+      "sounds/block/respawn_anchor/ambient2",
+      "sounds/block/respawn_anchor/ambient3"
+    ]
+  },
+  "respawn_anchor.charge": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/respawn_anchor/charge1",
+      "sounds/block/respawn_anchor/charge2",
+      "sounds/block/respawn_anchor/charge3"
+    ]
+  },
+  "respawn_anchor.deplete": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/respawn_anchor/deplete1",
+      "sounds/block/respawn_anchor/deplete2"
+    ]
+  },
+  "respawn_anchor.set_spawn": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/respawn_anchor/set_spawn1",
+      "sounds/block/respawn_anchor/set_spawn2",
+      "sounds/block/respawn_anchor/set_spawn3"
+    ]
+  }
+}

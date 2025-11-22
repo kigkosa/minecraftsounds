@@ -1,0 +1,525 @@
+{
+  "dig.ancient_debris": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/ancient_debris1"
+      },
+      "sounds/dig/ancient_debris2",
+      "sounds/dig/ancient_debris3",
+      "sounds/dig/ancient_debris4",
+      "sounds/dig/ancient_debris5"
+    ]
+  },
+  "dig.azalea_leaves": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/azalea_leaves/break1",
+      "sounds/block/azalea_leaves/break2",
+      "sounds/block/azalea_leaves/break3",
+      "sounds/block/azalea_leaves/break4",
+      "sounds/block/azalea_leaves/break5",
+      "sounds/block/azalea_leaves/break6",
+      "sounds/block/azalea_leaves/break7"
+    ]
+  },
+  "dig.basalt": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/basalt1"
+      },
+      "sounds/dig/basalt2",
+      "sounds/dig/basalt3",
+      "sounds/dig/basalt4",
+      "sounds/dig/basalt5"
+    ]
+  },
+  "dig.bone_block": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/bone_block1"
+      },
+      "sounds/dig/bone_block2",
+      "sounds/dig/bone_block3",
+      "sounds/dig/bone_block4",
+      "sounds/dig/bone_block5"
+    ]
+  },
+  "dig.candle": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/candle/break1",
+      "sounds/block/candle/break2",
+      "sounds/block/candle/break3"
+    ]
+  },
+  "dig.cave_vines": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/cave_vines/break1",
+      "sounds/block/cave_vines/break2",
+      "sounds/block/cave_vines/break3",
+      "sounds/block/cave_vines/break4",
+      "sounds/block/cave_vines/break5"
+    ]
+  },
+  "dig.chain": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/chain1"
+      },
+      "sounds/dig/chain2",
+      "sounds/dig/chain3",
+      "sounds/dig/chain4"
+    ]
+  },
+  "dig.cloth": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/cloth1"
+      },
+      "sounds/dig/cloth2",
+      "sounds/dig/cloth3",
+      "sounds/dig/cloth4"
+    ]
+  },
+  "dig.copper": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/copper/break1",
+      "sounds/block/copper/break2",
+      "sounds/block/copper/break3",
+      "sounds/block/copper/break4"
+    ]
+  },
+  "dig.coral": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/coral1"
+      },
+      "sounds/dig/coral2",
+      "sounds/dig/coral3",
+      "sounds/dig/coral4"
+    ]
+  },
+  "dig.deepslate": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/deepslate/break1",
+      "sounds/block/deepslate/break2",
+      "sounds/block/deepslate/break3",
+      "sounds/block/deepslate/break4"
+    ]
+  },
+  "dig.deepslate_bricks": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/deepslate_bricks/place1",
+      "sounds/block/deepslate_bricks/place2",
+      "sounds/block/deepslate_bricks/place3",
+      "sounds/block/deepslate_bricks/place4",
+      "sounds/block/deepslate_bricks/place5",
+      "sounds/block/deepslate_bricks/place6"
+    ]
+  },
+  "dig.fungus": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/fungus1"
+      },
+      "sounds/dig/fungus2",
+      "sounds/dig/fungus3",
+      "sounds/dig/fungus4",
+      "sounds/dig/fungus5",
+      "sounds/dig/fungus6"
+    ]
+  },
+  "dig.grass": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/grass1"
+      },
+      "sounds/dig/grass2",
+      "sounds/dig/grass3",
+      "sounds/dig/grass4"
+    ]
+  },
+  "dig.gravel": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/gravel1"
+      },
+      "sounds/dig/gravel2",
+      "sounds/dig/gravel3",
+      "sounds/dig/gravel4"
+    ]
+  },
+  "dig.honey_block": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/honey_block1"
+      },
+      "sounds/dig/honey_block2",
+      "sounds/dig/honey_block3",
+      "sounds/dig/honey_block4",
+      "sounds/dig/honey_block5"
+    ]
+  },
+  "dig.lodestone": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/lodestone1"
+      },
+      "sounds/dig/lodestone2",
+      "sounds/dig/lodestone3",
+      "sounds/dig/lodestone4"
+    ]
+  },
+  "dig.moss": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/moss/break1",
+      "sounds/block/moss/break2",
+      "sounds/block/moss/break3",
+      "sounds/block/moss/break4",
+      "sounds/block/moss/break5"
+    ]
+  },
+  "dig.nether_brick": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/nether_brick1"
+      },
+      "sounds/dig/nether_brick2",
+      "sounds/dig/nether_brick3",
+      "sounds/dig/nether_brick4",
+      "sounds/dig/nether_brick5",
+      "sounds/dig/nether_brick6"
+    ]
+  },
+  "dig.nether_gold_ore": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/nether_gold_ore1"
+      },
+      "sounds/dig/nether_gold_ore2",
+      "sounds/dig/nether_gold_ore3",
+      "sounds/dig/nether_gold_ore4"
+    ]
+  },
+  "dig.nether_sprouts": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/nether_sprouts1"
+      },
+      "sounds/dig/nether_sprouts2",
+      "sounds/dig/nether_sprouts3",
+      "sounds/dig/nether_sprouts4"
+    ]
+  },
+  "dig.nether_wart": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/nether_wart1"
+      },
+      "sounds/dig/nether_wart2",
+      "sounds/dig/nether_wart3",
+      "sounds/dig/nether_wart4",
+      "sounds/dig/nether_wart5",
+      "sounds/dig/nether_wart6"
+    ]
+  },
+  "dig.netherite": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/netherite1"
+      },
+      "sounds/dig/netherite2",
+      "sounds/dig/netherite3",
+      "sounds/dig/netherite4"
+    ]
+  },
+  "dig.netherrack": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/netherrack1"
+      },
+      "sounds/dig/netherrack2",
+      "sounds/dig/netherrack3",
+      "sounds/dig/netherrack4",
+      "sounds/dig/netherrack5",
+      "sounds/dig/netherrack6"
+    ]
+  },
+  "dig.nylium": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/nylium1"
+      },
+      "sounds/dig/nylium2",
+      "sounds/dig/nylium3",
+      "sounds/dig/nylium4",
+      "sounds/dig/nylium5",
+      "sounds/dig/nylium6"
+    ]
+  },
+  "dig.powder_snow": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/powder_snow/break1",
+      "sounds/block/powder_snow/break2",
+      "sounds/block/powder_snow/break3",
+      "sounds/block/powder_snow/break4",
+      "sounds/block/powder_snow/break5",
+      "sounds/block/powder_snow/break6",
+      "sounds/block/powder_snow/break7"
+    ]
+  },
+  "dig.roots": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/roots1"
+      },
+      "sounds/dig/roots2",
+      "sounds/dig/roots3",
+      "sounds/dig/roots4",
+      "sounds/dig/roots5",
+      "sounds/dig/roots6"
+    ]
+  },
+  "dig.sand": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/sand1"
+      },
+      "sounds/dig/sand2",
+      "sounds/dig/sand3",
+      "sounds/dig/sand4"
+    ]
+  },
+  "dig.shroomlight": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/shroomlight1"
+      },
+      "sounds/dig/shroomlight2",
+      "sounds/dig/shroomlight3",
+      "sounds/dig/shroomlight4",
+      "sounds/dig/shroomlight5"
+    ]
+  },
+  "dig.snow": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/snow1"
+      },
+      "sounds/dig/snow2",
+      "sounds/dig/snow3",
+      "sounds/dig/snow4"
+    ]
+  },
+  "dig.soul_sand": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/soul_sand1"
+      },
+      "sounds/dig/soul_sand2",
+      "sounds/dig/soul_sand3",
+      "sounds/dig/soul_sand4",
+      "sounds/dig/soul_sand5",
+      "sounds/dig/soul_sand6",
+      "sounds/dig/soul_sand7",
+      "sounds/dig/soul_sand8",
+      "sounds/dig/soul_sand9"
+    ]
+  },
+  "dig.soul_soil": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/soul_soil1"
+      },
+      "sounds/dig/soul_soil2",
+      "sounds/dig/soul_soil3",
+      "sounds/dig/soul_soil4",
+      "sounds/dig/soul_soil5",
+      "sounds/dig/soul_soil6"
+    ]
+  },
+  "dig.stem": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/stem1"
+      },
+      "sounds/dig/stem2",
+      "sounds/dig/stem3",
+      "sounds/dig/stem4",
+      "sounds/dig/stem5",
+      "sounds/dig/stem6"
+    ]
+  },
+  "dig.stone": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/stone1"
+      },
+      "sounds/dig/stone2",
+      "sounds/dig/stone3",
+      "sounds/dig/stone4"
+    ]
+  },
+  "dig.vines": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/vines1"
+      },
+      "sounds/dig/vines2",
+      "sounds/dig/vines3",
+      "sounds/dig/vines4",
+      "sounds/dig/vines5"
+    ]
+  },
+  "dig.wood": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/dig/wood1"
+      },
+      "sounds/dig/wood2",
+      "sounds/dig/wood3",
+      "sounds/dig/wood4"
+    ]
+  }
+}

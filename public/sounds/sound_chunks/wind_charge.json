@@ -1,0 +1,12 @@
+{
+  "wind_charge.burst": {
+    "category": "player",
+    "max_distance": 32,
+    "min_distance": null,
+    "sounds": [
+      "sounds/item/wind_charge/wind_burst1",
+      "sounds/item/wind_charge/wind_burst2",
+      "sounds/item/wind_charge/wind_burst3"
+    ]
+  }
+}

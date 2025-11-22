@@ -1,0 +1,145 @@
+{
+  "vault.activate": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/vault/activate",
+        "pitch": 0.95
+      }
+    ]
+  },
+  "vault.ambient": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/vault/ambient1",
+      "sounds/block/vault/ambient2",
+      "sounds/block/vault/ambient3"
+    ]
+  },
+  "vault.break": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/vault/break1"
+      },
+      {
+        "name": "sounds/block/vault/break2"
+      },
+      {
+        "name": "sounds/block/vault/break3"
+      },
+      {
+        "name": "sounds/block/vault/break4"
+      }
+    ]
+  },
+  "vault.close_shutter": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/trial_spawner/close_shutter"
+    ]
+  },
+  "vault.deactivate": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/vault/deactivate"
+    ]
+  },
+  "vault.eject_item": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/vault/eject_item1",
+      "sounds/block/vault/eject_item2",
+      "sounds/block/vault/eject_item3"
+    ]
+  },
+  "vault.hit": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/vault/step1",
+      "sounds/block/vault/step2",
+      "sounds/block/vault/step3",
+      "sounds/block/vault/step4",
+      "sounds/block/vault/step5",
+      "sounds/block/vault/step6",
+      "sounds/block/vault/step7",
+      "sounds/block/vault/step8"
+    ]
+  },
+  "vault.insert_item": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/vault/insert"
+    ]
+  },
+  "vault.insert_item_fail": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/vault/insert_fail"
+    ]
+  },
+  "vault.open_shutter": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/vault/open_shutter"
+    ]
+  },
+  "vault.place": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/vault/place1",
+      "sounds/block/vault/place2",
+      "sounds/block/vault/place3",
+      "sounds/block/vault/place4"
+    ]
+  },
+  "vault.reject_rewarded_player": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/vault/reject_rewarded_player"
+      }
+    ]
+  },
+  "vault.step": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/vault/step1",
+      "sounds/block/vault/step2",
+      "sounds/block/vault/step3",
+      "sounds/block/vault/step4",
+      "sounds/block/vault/step5",
+      "sounds/block/vault/step6",
+      "sounds/block/vault/step7",
+      "sounds/block/vault/step8"
+    ]
+  }
+}

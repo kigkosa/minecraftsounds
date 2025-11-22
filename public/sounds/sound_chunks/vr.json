@@ -1,0 +1,15 @@
+{
+  "vr.stutterturn": {
+    "__use_legacy_max_distance": "true",
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/vr/turn1",
+      "sounds/vr/turn2",
+      "sounds/vr/turn3",
+      "sounds/vr/turn4",
+      "sounds/vr/turn5"
+    ]
+  }
+}

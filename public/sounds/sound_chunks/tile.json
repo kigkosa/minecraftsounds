@@ -1,0 +1,20 @@
+{
+  "tile.piston.in": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/tile/piston/in"
+    ]
+  },
+  "tile.piston.out": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/tile/piston/out"
+    ]
+  }
+}

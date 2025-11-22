@@ -1,0 +1,26 @@
+{
+  "brush_completed.suspicious_gravel": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/item/brush/brushing_gravel_complete1",
+      "sounds/item/brush/brushing_gravel_complete2",
+      "sounds/item/brush/brushing_gravel_complete3",
+      "sounds/item/brush/brushing_gravel_complete4",
+      "sounds/item/brush/brushing_gravel_complete5"
+    ]
+  },
+  "brush_completed.suspicious_sand": {
+    "category": "player",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/item/brush/brushing_sand_complete1",
+      "sounds/item/brush/brushing_sand_complete2",
+      "sounds/item/brush/brushing_sand_complete3",
+      "sounds/item/brush/brushing_sand_complete4",
+      "sounds/item/brush/brushing_sand_complete5"
+    ]
+  }
+}

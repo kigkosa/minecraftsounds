@@ -1,0 +1,14 @@
+{
+  "charge.sculk": {
+    "category": "neutral",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/sculk/charge1",
+      "sounds/block/sculk/charge2",
+      "sounds/block/sculk/charge3",
+      "sounds/block/sculk/charge4",
+      "sounds/block/sculk/charge5"
+    ]
+  }
+}

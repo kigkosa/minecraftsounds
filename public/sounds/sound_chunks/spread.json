@@ -1,0 +1,14 @@
+{
+  "spread.sculk": {
+    "category": "neutral",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/sculk/spread1",
+      "sounds/block/sculk/spread2",
+      "sounds/block/sculk/spread3",
+      "sounds/block/sculk/spread4",
+      "sounds/block/sculk/spread5"
+    ]
+  }
+}

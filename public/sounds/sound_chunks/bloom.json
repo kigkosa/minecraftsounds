@@ -1,0 +1,22 @@
+{
+  "bloom.sculk_catalyst": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/particle/soulspeed1",
+      "sounds/particle/soulspeed2",
+      "sounds/particle/soulspeed3",
+      "sounds/particle/soulspeed4",
+      "sounds/particle/soulspeed5",
+      "sounds/particle/soulspeed6",
+      "sounds/particle/soulspeed7",
+      "sounds/particle/soulspeed8",
+      "sounds/particle/soulspeed9",
+      "sounds/particle/soulspeed10",
+      "sounds/particle/soulspeed11",
+      "sounds/particle/soulspeed12",
+      "sounds/particle/soulspeed13"
+    ]
+  }
+}

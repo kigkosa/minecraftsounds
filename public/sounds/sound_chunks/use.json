@@ -1,0 +1,559 @@
+{
+  "use.ancient_debris": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/ancient_debris1"
+      },
+      "sounds/step/ancient_debris2",
+      "sounds/step/ancient_debris3",
+      "sounds/step/ancient_debris4",
+      "sounds/step/ancient_debris5"
+    ]
+  },
+  "use.basalt": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/basalt1"
+      },
+      "sounds/step/basalt2",
+      "sounds/step/basalt3",
+      "sounds/step/basalt4",
+      "sounds/step/basalt5",
+      "sounds/step/basalt6"
+    ]
+  },
+  "use.bone_block": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/bone_block1"
+      },
+      "sounds/step/bone_block2",
+      "sounds/step/bone_block3",
+      "sounds/step/bone_block4",
+      "sounds/step/bone_block5"
+    ]
+  },
+  "use.candle": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/candle/step1",
+      "sounds/block/candle/step2",
+      "sounds/block/candle/step3"
+    ]
+  },
+  "use.cave_vines": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/step/vines1",
+      "sounds/step/vines2",
+      "sounds/step/vines3",
+      "sounds/step/vines4",
+      "sounds/step/vines5"
+    ]
+  },
+  "use.chain": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/chain1"
+      },
+      "sounds/step/chain2",
+      "sounds/step/chain3",
+      "sounds/step/chain4",
+      "sounds/step/chain5",
+      "sounds/step/chain6"
+    ]
+  },
+  "use.cloth": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/step/cloth1",
+      "sounds/step/cloth2",
+      "sounds/step/cloth3",
+      "sounds/step/cloth4"
+    ]
+  },
+  "use.copper": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/copper/step1",
+      "sounds/block/copper/step2",
+      "sounds/block/copper/step3",
+      "sounds/block/copper/step4",
+      "sounds/block/copper/step5",
+      "sounds/block/copper/step6"
+    ]
+  },
+  "use.coral": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/coral1"
+      },
+      "sounds/step/coral2",
+      "sounds/step/coral3",
+      "sounds/step/coral4",
+      "sounds/step/coral5",
+      "sounds/step/coral6"
+    ]
+  },
+  "use.deepslate": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/deepslate/step1",
+      "sounds/block/deepslate/step2",
+      "sounds/block/deepslate/step3",
+      "sounds/block/deepslate/step4",
+      "sounds/block/deepslate/step5",
+      "sounds/block/deepslate/step6"
+    ]
+  },
+  "use.deepslate_bricks": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/deepslate_bricks/step1",
+      "sounds/block/deepslate_bricks/step2",
+      "sounds/block/deepslate_bricks/step3",
+      "sounds/block/deepslate_bricks/step4",
+      "sounds/block/deepslate_bricks/step5",
+      "sounds/block/deepslate_bricks/step6"
+    ]
+  },
+  "use.dirt_with_roots": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/rooted_dirt/step1",
+      "sounds/block/rooted_dirt/step2",
+      "sounds/block/rooted_dirt/step3",
+      "sounds/block/rooted_dirt/step4",
+      "sounds/block/rooted_dirt/step5",
+      "sounds/block/rooted_dirt/step6"
+    ]
+  },
+  "use.dripstone_block": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/dripstone/step1",
+      "sounds/block/dripstone/step2",
+      "sounds/block/dripstone/step3",
+      "sounds/block/dripstone/step4",
+      "sounds/block/dripstone/step5",
+      "sounds/block/dripstone/step6"
+    ]
+  },
+  "use.grass": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/grass/flatten1",
+      "sounds/block/grass/flatten2",
+      "sounds/block/grass/flatten3",
+      "sounds/block/grass/flatten4"
+    ]
+  },
+  "use.gravel": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/step/gravel1",
+      "sounds/step/gravel2",
+      "sounds/step/gravel3",
+      "sounds/step/gravel4"
+    ]
+  },
+  "use.hanging_roots": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/hanging_roots/break1",
+      "sounds/block/hanging_roots/break2",
+      "sounds/block/hanging_roots/break3",
+      "sounds/block/hanging_roots/break4"
+    ]
+  },
+  "use.honey_block": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/honey_block1"
+      },
+      "sounds/step/honey_block2",
+      "sounds/step/honey_block3",
+      "sounds/step/honey_block4",
+      "sounds/step/honey_block5"
+    ]
+  },
+  "use.ladder": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/step/ladder1",
+      "sounds/step/ladder2",
+      "sounds/step/ladder3",
+      "sounds/step/ladder4",
+      "sounds/step/ladder5"
+    ]
+  },
+  "use.moss": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/moss/step1",
+      "sounds/block/moss/step2",
+      "sounds/block/moss/step3",
+      "sounds/block/moss/step4",
+      "sounds/block/moss/step5",
+      "sounds/block/moss/step6"
+    ]
+  },
+  "use.nether_brick": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/nether_brick1"
+      },
+      "sounds/step/nether_brick2",
+      "sounds/step/nether_brick3",
+      "sounds/step/nether_brick4",
+      "sounds/step/nether_brick5",
+      "sounds/step/nether_brick6"
+    ]
+  },
+  "use.nether_gold_ore": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/nether_gold_ore1"
+      },
+      "sounds/step/nether_gold_ore2",
+      "sounds/step/nether_gold_ore3",
+      "sounds/step/nether_gold_ore4",
+      "sounds/step/nether_gold_ore5"
+    ]
+  },
+  "use.nether_sprouts": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/nether_sprouts1"
+      },
+      "sounds/step/nether_sprouts2",
+      "sounds/step/nether_sprouts3",
+      "sounds/step/nether_sprouts4",
+      "sounds/step/nether_sprouts5"
+    ]
+  },
+  "use.nether_wart": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/nether_wart1"
+      },
+      "sounds/step/nether_wart2",
+      "sounds/step/nether_wart3",
+      "sounds/step/nether_wart4",
+      "sounds/step/nether_wart5"
+    ]
+  },
+  "use.netherite": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/netherite1"
+      },
+      "sounds/step/netherite2",
+      "sounds/step/netherite3",
+      "sounds/step/netherite4",
+      "sounds/step/netherite5",
+      "sounds/step/netherite6"
+    ]
+  },
+  "use.netherrack": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/netherrack1"
+      },
+      "sounds/step/netherrack2",
+      "sounds/step/netherrack3",
+      "sounds/step/netherrack4",
+      "sounds/step/netherrack5",
+      "sounds/step/netherrack6"
+    ]
+  },
+  "use.nylium": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/nylium1"
+      },
+      "sounds/step/nylium2",
+      "sounds/step/nylium3",
+      "sounds/step/nylium4",
+      "sounds/step/nylium5",
+      "sounds/step/nylium6"
+    ]
+  },
+  "use.pointed_dripstone": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/dripstone/step1",
+      "sounds/block/dripstone/step2",
+      "sounds/block/dripstone/step3",
+      "sounds/block/dripstone/step4",
+      "sounds/block/dripstone/step5",
+      "sounds/block/dripstone/step6"
+    ]
+  },
+  "use.roots": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/roots1"
+      },
+      "sounds/step/roots2",
+      "sounds/step/roots3",
+      "sounds/step/roots4",
+      "sounds/step/roots5"
+    ]
+  },
+  "use.sand": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/step/sand1",
+      "sounds/step/sand2",
+      "sounds/step/sand3",
+      "sounds/step/sand4",
+      "sounds/step/sand5"
+    ]
+  },
+  "use.sculk_sensor": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/sculk_sensor/step1",
+      "sounds/block/sculk_sensor/step2",
+      "sounds/block/sculk_sensor/step3",
+      "sounds/block/sculk_sensor/step4",
+      "sounds/block/sculk_sensor/step5",
+      "sounds/block/sculk_sensor/step6"
+    ]
+  },
+  "use.shroomlight": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/shroomlight1"
+      },
+      "sounds/step/shroomlight2",
+      "sounds/step/shroomlight3",
+      "sounds/step/shroomlight4",
+      "sounds/step/shroomlight5",
+      "sounds/step/shroomlight6"
+    ]
+  },
+  "use.slime": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/mob/slime/small1",
+      "sounds/mob/slime/small2",
+      "sounds/mob/slime/small3",
+      "sounds/mob/slime/small4",
+      "sounds/mob/slime/small5"
+    ]
+  },
+  "use.snow": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/step/snow1",
+      "sounds/step/snow2",
+      "sounds/step/snow3",
+      "sounds/step/snow4"
+    ]
+  },
+  "use.soul_sand": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/soul_sand1"
+      },
+      "sounds/step/soul_sand2",
+      "sounds/step/soul_sand3",
+      "sounds/step/soul_sand4",
+      "sounds/step/soul_sand5"
+    ]
+  },
+  "use.soul_soil": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/soul_soil1"
+      },
+      "sounds/step/soul_soil2",
+      "sounds/step/soul_soil3",
+      "sounds/step/soul_soil4",
+      "sounds/step/soul_soil5"
+    ]
+  },
+  "use.spore_blossom": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/spore_blossom/step1",
+      "sounds/block/spore_blossom/step2",
+      "sounds/block/spore_blossom/step3",
+      "sounds/block/spore_blossom/step4",
+      "sounds/block/spore_blossom/step5",
+      "sounds/block/spore_blossom/step6"
+    ]
+  },
+  "use.stem": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/stem1"
+      },
+      "sounds/step/stem2",
+      "sounds/step/stem3",
+      "sounds/step/stem4",
+      "sounds/step/stem5",
+      "sounds/step/stem6"
+    ]
+  },
+  "use.stone": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/step/stone1",
+      "sounds/step/stone2",
+      "sounds/step/stone3",
+      "sounds/step/stone4",
+      "sounds/step/stone5",
+      "sounds/step/stone6"
+    ]
+  },
+  "use.vines": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/step/vines1"
+      },
+      "sounds/step/vines2",
+      "sounds/step/vines3",
+      "sounds/step/vines4",
+      "sounds/step/vines5"
+    ]
+  },
+  "use.wood": {
+    "__use_legacy_max_distance": "true",
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/item/axe/strip1",
+      "sounds/item/axe/strip2",
+      "sounds/item/axe/strip3",
+      "sounds/item/axe/strip4"
+    ]
+  }
+}

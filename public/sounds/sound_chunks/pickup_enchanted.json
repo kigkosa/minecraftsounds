@@ -1,0 +1,51 @@
+{
+  "pickup_enchanted.chiseled_bookshelf": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup_enchanted1",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup_enchanted1",
+        "pitch": 0.8,
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup_enchanted1",
+        "pitch": 1.1,
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup_enchanted2",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup_enchanted2",
+        "pitch": 0.8,
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup_enchanted2",
+        "pitch": 1.1,
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup_enchanted3",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup_enchanted3",
+        "pitch": 0.8,
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup_enchanted3",
+        "pitch": 1.1,
+        "volume": 0.8
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "pickup.chiseled_bookshelf": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup1",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup1",
+        "pitch": 0.8,
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup1",
+        "pitch": 1.1,
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup2",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup2",
+        "pitch": 0.8,
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup2",
+        "pitch": 1.1,
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup3",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup3",
+        "pitch": 0.8,
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/block/chiseled_bookshelf/pickup3",
+        "pitch": 1.1,
+        "volume": 0.8
+      }
+    ]
+  }
+}

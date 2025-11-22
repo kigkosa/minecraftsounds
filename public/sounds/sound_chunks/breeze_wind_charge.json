@@ -1,0 +1,12 @@
+{
+  "breeze_wind_charge.burst": {
+    "category": "hostile",
+    "max_distance": 16,
+    "min_distance": null,
+    "sounds": [
+      "sounds/mob/breeze/wind_burst1",
+      "sounds/mob/breeze/wind_burst2",
+      "sounds/mob/breeze/wind_burst3"
+    ]
+  }
+}

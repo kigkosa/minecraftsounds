@@ -44,17 +44,17 @@ function filterAndMergeSounds(existingSounds, newSounds) {
 Object.entries(soundsData).forEach(([key, data]) => {
     const category = key.split('.')[0];
     const outputFilePath = path.join(outputDir, `${category}.json`);
-
     let existingSoundData = {};
-
+    
     if (fs.existsSync(outputFilePath)) {
         const existingData = fs.readFileSync(outputFilePath, 'utf8');
         existingSoundData = JSON.parse(existingData);
     }
-
+    
     const updatedSoundData = filterAndMergeSounds(existingSoundData, {
         [key]: data
     });
+    console.log(updatedSoundData);
 
     if (Object.keys(updatedSoundData).length > 0) {
         fs.writeFileSync(outputFilePath, JSON.stringify(updatedSoundData, null, 2), 'utf8');

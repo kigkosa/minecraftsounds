@@ -1,0 +1,47 @@
+{
+  "firework.blast": {
+    "__use_legacy_max_distance": "true",
+    "category": "ambient",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/fireworks/blast1"
+    ]
+  },
+  "firework.large_blast": {
+    "__use_legacy_max_distance": "true",
+    "category": "ambient",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/fireworks/largeBlast1"
+    ]
+  },
+  "firework.launch": {
+    "__use_legacy_max_distance": "true",
+    "category": "ambient",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/fireworks/launch1"
+    ]
+  },
+  "firework.shoot": {
+    "__use_legacy_max_distance": "true",
+    "category": "ambient",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/bow"
+    ]
+  },
+  "firework.twinkle": {
+    "__use_legacy_max_distance": "true",
+    "category": "ambient",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/fireworks/twinkle1"
+    ]
+  }
+}

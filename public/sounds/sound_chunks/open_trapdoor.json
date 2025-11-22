@@ -1,0 +1,21 @@
+{
+  "open_trapdoor.copper": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/copper_trapdoor/toggle1"
+      },
+      {
+        "name": "sounds/block/copper_trapdoor/toggle2"
+      },
+      {
+        "name": "sounds/block/copper_trapdoor/toggle3"
+      },
+      {
+        "name": "sounds/block/copper_trapdoor/toggle4"
+      }
+    ]
+  }
+}

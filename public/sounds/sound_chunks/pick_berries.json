@@ -1,0 +1,11 @@
+{
+  "pick_berries.cave_vines": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/sweet_berry_bush/pick_from_bush1",
+      "sounds/block/sweet_berry_bush/pick_from_bush2"
+    ]
+  }
+}

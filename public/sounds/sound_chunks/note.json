@@ -1,0 +1,268 @@
+{
+  "note.banjo": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/note/banjo"
+      }
+    ]
+  },
+  "note.bass": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/note/bass"
+      }
+    ]
+  },
+  "note.bassattack": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/note/bassattack"
+      }
+    ]
+  },
+  "note.bd": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/note/bd"
+      }
+    ]
+  },
+  "note.bell": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/note/bell"
+      }
+    ]
+  },
+  "note.bit": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/note/bit"
+      }
+    ]
+  },
+  "note.chime": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/note/icechime"
+      }
+    ]
+  },
+  "note.cow_bell": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/note/cow_bell"
+      }
+    ]
+  },
+  "note.creeper": {
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      "sounds/random/fuse"
+    ]
+  },
+  "note.didgeridoo": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/note/didgeridoo"
+      }
+    ]
+  },
+  "note.enderdragon": {
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      "sounds/mob/enderdragon/growl1",
+      "sounds/mob/enderdragon/growl2",
+      "sounds/mob/enderdragon/growl3",
+      "sounds/mob/enderdragon/growl4"
+    ]
+  },
+  "note.flute": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/note/flute"
+      }
+    ]
+  },
+  "note.guitar": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/note/guitar"
+      }
+    ]
+  },
+  "note.harp": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/note/harp"
+      }
+    ]
+  },
+  "note.hat": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/note/hat"
+      }
+    ]
+  },
+  "note.iron_xylophone": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/note/iron_xylophone"
+      }
+    ]
+  },
+  "note.piglin": {
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      "sounds/mob/piglin/angry1",
+      "sounds/mob/piglin/angry2",
+      "sounds/mob/piglin/angry3",
+      "sounds/mob/piglin/angry4"
+    ]
+  },
+  "note.pling": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/note/pling"
+      }
+    ]
+  },
+  "note.skeleton": {
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      "sounds/mob/skeleton/step1",
+      "sounds/mob/skeleton/step2",
+      "sounds/mob/skeleton/step3",
+      "sounds/mob/skeleton/step4"
+    ]
+  },
+  "note.snare": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/note/snare"
+      }
+    ]
+  },
+  "note.witherskeleton": {
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      "sounds/mob/wither_skeleton/step1",
+      "sounds/mob/wither_skeleton/step2",
+      "sounds/mob/wither_skeleton/step3",
+      "sounds/mob/wither_skeleton/step4"
+    ]
+  },
+  "note.xylophone": {
+    "__use_legacy_max_distance": "true",
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      {
+        "load_on_low_memory": true,
+        "name": "sounds/note/xylobone"
+      }
+    ]
+  },
+  "note.zombie": {
+    "category": "record",
+    "max_distance": 48,
+    "min_distance": null,
+    "sounds": [
+      "sounds/mob/zombie/say1",
+      "sounds/mob/zombie/say2",
+      "sounds/mob/zombie/say3"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ominous_item_spawner.about_to_spawn_item": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/trial_spawner/about_to_spawn_item"
+    ]
+  },
+  "ominous_item_spawner.spawn_item": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/trial_spawner/spawn_item1",
+      "sounds/block/trial_spawner/spawn_item2",
+      "sounds/block/trial_spawner/spawn_item3"
+    ]
+  },
+  "ominous_item_spawner.spawn_item_begin": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/trial_spawner/spawn_item_begin1",
+      "sounds/block/trial_spawner/spawn_item_begin2",
+      "sounds/block/trial_spawner/spawn_item_begin3"
+    ]
+  }
+}

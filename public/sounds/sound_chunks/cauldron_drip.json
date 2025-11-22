@@ -1,0 +1,28 @@
+{
+  "cauldron_drip.lava.pointed_dripstone": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/pointed_dripstone/drip_lava_cauldron1",
+      "sounds/block/pointed_dripstone/drip_lava_cauldron2",
+      "sounds/block/pointed_dripstone/drip_lava_cauldron3",
+      "sounds/block/pointed_dripstone/drip_lava_cauldron4"
+    ]
+  },
+  "cauldron_drip.water.pointed_dripstone": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/pointed_dripstone/drip_water_cauldron1",
+      "sounds/block/pointed_dripstone/drip_water_cauldron2",
+      "sounds/block/pointed_dripstone/drip_water_cauldron3",
+      "sounds/block/pointed_dripstone/drip_water_cauldron4",
+      "sounds/block/pointed_dripstone/drip_water_cauldron5",
+      "sounds/block/pointed_dripstone/drip_water_cauldron6",
+      "sounds/block/pointed_dripstone/drip_water_cauldron7",
+      "sounds/block/pointed_dripstone/drip_water_cauldron8"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "pumpkin.carve": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      "sounds/block/pumpkin/carve1",
+      "sounds/block/pumpkin/carve2"
+    ]
+  }
+}

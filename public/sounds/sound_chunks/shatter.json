@@ -1,0 +1,29 @@
+{
+  "shatter.decorated_pot": {
+    "category": "block",
+    "max_distance": null,
+    "min_distance": null,
+    "sounds": [
+      {
+        "name": "sounds/block/decorated_pot/shatter1",
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/decorated_pot/shatter2",
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/decorated_pot/shatter3",
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/decorated_pot/shatter4",
+        "volume": 1
+      },
+      {
+        "name": "sounds/block/decorated_pot/shatter5",
+        "volume": 1
+      }
+    ]
+  }
+}
