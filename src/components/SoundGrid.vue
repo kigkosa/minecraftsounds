@@ -108,10 +108,9 @@ export default {
       this.currentPage = 0;
       this.isLoading = false;
       this.gridSoundStates = {};
-
       if (this.folder) {
         await this.fetchSounds([this.folder]);
-      } else {
+      } else {        
         await this.fetchSounds(this.availableFolders);
       }
 
@@ -121,7 +120,7 @@ export default {
       this.isLoading = true;
       try {
         const promises = folders.map(async (folder) => {
-          const response = await fetch(`/sounds/sound_chunks/${folder}.json`);
+          const response = await fetch(`/sounds/sound_chunks/${folder}.json`);          
           const soundsData = await response.json();
 
           return Object.keys(soundsData).flatMap((key) => {
@@ -341,17 +340,103 @@ export default {
   computed: {
     availableFolders() {
       return [
-        'ambient',
-        'block',
-        'enchant',
-        'entity',
-        'event',
-        'item',
-        'music',
-        'music_disc',
-        'particle',
-        'ui',
-        'weather',
+  "ambient",
+  "apply_effect",
+  "armor",
+  "beacon",
+  "block",
+  "bloom",
+  "bottle",
+  "break",
+  "breeze_wind_charge",
+  "brush",
+  "brush_completed",
+  "bubble",
+  "bucket",
+  "bundle",
+  "cake",
+  "camera",
+  "cauldron",
+  "cauldron_drip",
+  "charge",
+  "chime",
+  "click_off",
+  "click_on",
+  "close",
+  "close_door",
+  "component",
+  "conduit",
+  "copper",
+  "crafter",
+  "crossbow",
+  "damage",
+  "dig",
+  "drip",
+  "elytra",
+  "enchant",
+  "entity",
+  "event",
+  "extinguish",
+  "fall",
+  "fire",
+  "firework",
+  "game",
+  "hatch",
+  "hit",
+  "horn",
+  "hud",
+  "imitate",
+  "insert",
+  "insert_enchanted",
+  "item",
+  "jump",
+  "land",
+  "lead",
+  "leashknot",
+  "liquid",
+  "lodestone_compass",
+  "mace",
+  "minecart",
+  "mob",
+  "music",
+  "music_disc",
+  "note",
+  "ominous_bottle",
+  "ominous_item_spawner",
+  "open",
+  "open_door",
+  "open_trapdoor",
+  "particle",
+  "pick_berries",
+  "pickup",
+  "pickup_enchanted",
+  "place",
+  "portal",
+  "power",
+  "pumpkin",
+  "raid",
+  "random",
+  "record",
+  "resonate",
+  "respawn_anchor",
+  "scrape",
+  "shatter",
+  "shriek",
+  "sign",
+  "smithing_table",
+  "sponge",
+  "spread",
+  "step",
+  "tile",
+  "tilt_down",
+  "tilt_up",
+  "trial_spawner",
+  "ui",
+  "use",
+  "vault",
+  "vr",
+  "weather",
+  "wind_charge"
       ];
     },
   },
